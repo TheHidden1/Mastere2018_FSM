@@ -58,7 +58,7 @@
                 },
             ],
         });
-        let datav2  = data.filter(entry=>(entry["Choix_1"] ==="MPISI" && entry["Choix_2"] ==="MRMSRA") || (entry["Choix_1"] ==="MPISI" && entry["Choix_2"] ==="MRMSRA") );
+        let datav2  = data.filter(entry=>entry["Choix_1"] ==="MRMSRA");
 
         datav2.sort(function(a, b){return parseFloat(b["Score"]) - parseFloat(a["Score"])});
         // add an index

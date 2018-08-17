@@ -12,7 +12,7 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/tabulator/3.5.3/css/tabulator.min.css" rel="stylesheet">
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tabulator/3.5.3/js/tabulator.min.js"></script>
     <title>Document</title>
-    <script src="data.all.js"></script>
+    <script src="data.lf.js"></script>
 </head>
 
 <body>
@@ -58,7 +58,8 @@
                 },
             ],
         });
-        let datav2  = data.filter(entry=>(entry["Choix_1"] ==="MPISI" && entry["Choix_2"] ==="MRMSRA") || (entry["Choix_1"] ==="MPISI" && entry["Choix_2"] ==="MRMSRA") );
+        //&& entry["Choix_2"] ==="MRMSRA") || (entry["Choix_1"] ==="MPISI" && entry["Choix_2"] ==="MRMSRA")
+        let datav2  = data.filter(entry=>(entry["Choix_1"] ==="MRMSRA"));
 
         datav2.sort(function(a, b){return parseFloat(b["Score"]) - parseFloat(a["Score"])});
         // add an index
