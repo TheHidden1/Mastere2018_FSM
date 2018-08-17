@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="
+        crossorigin="anonymous"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tabulator/3.5.3/css/tabulator.min.css" rel="stylesheet">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tabulator/3.5.3/js/tabulator.min.js"></script>
+    <title>Document</title>
+    <script src="data.js"></script>
+</head>
+
+<body>
+    <div id="table"></div>
+
+    <script>
+        // ("N_Dossier","Nom","Prenom","Nature_diplome_obtenu","Choix_1","Choix_2","Choix_3","Choix_4","Score")
+        $("#table").tabulator({
+            // height: 800, // set height of table (in CSS or here), this enables the Virtual DOM and improves render speed dramatically (can be any valid css height value)
+            layout: "fitColumns", //fit columns to width of table (optional)
+            columns: [ //Define Table Columns
+               {
+                    title: "Rank",
+                    field: "rank",
+                },
+                {
+                    title: "N_Dossier",
+                    field: "N_Dossier",
+                },
+                {
+                    title: "Nom",
+                    field: "Nom",
+                },
+                {
+                    title: "Prenom",
+                    field: "Prenom",
+                },
+                {
+                    title: "Nature_diplome_obtenu",
+                    field: "Nature_diplome_obtenu",
+                },
+                {
+                    title: "Choix_1",
+                    field: "Choix_1",
+                },
+                {
+                    title: "Choix_2",
+                    field: "Choix_2",
+                },
+                {
+                    title: "Score",
+                    field: "Score",
+                },
+            ],
+        });
+        let datav2  = data.filter(entry=>(entry["Choix_1"] ==="MPISI" && entry["Choix_2"] ==="MRMSRA") || (entry["Choix_1"] ==="MPISI" && entry["Choix_2"] ==="MRMSRA") );
+
+        datav2.sort(function(a, b){return parseFloat(b["Score"]) - parseFloat(a["Score"])});
+        // add an index
+        for (let index = 0; index < datav2.length; index++) {
+         datav2[index]["rank"] = index+1;   
+        }
+        $("#table").tabulator("setData", datav2);
+    </script>
+</body>
+
+</html>
