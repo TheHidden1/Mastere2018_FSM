@@ -15,15 +15,16 @@
       MaxScore: parseFloat(data[0]["Score"].replace(/,/, '.')),
       ChoiceStats: [],
       DiplomaStats: [],
-      DiplomaStatsMPISI: [],
-      DiplomaStatsMRMSRA: [],
 
       ChoiceStatsLF: [],
       ChoiceStatsLA: [],
       ChoiceStatsGENIE: [],
       ChoiceStatsMASRE: [],
       ChoiceStatsMASPRO: [],
-      ChoiceStatsMET: []
+      ChoiceStatsMET: [],
+
+      Nbr_Sum_Min_Max_Scores: [],
+      Nbr_Sum_Min_Max_Scores_Mastere: [],
 
   }
   let TempSum;
@@ -35,84 +36,75 @@
           Analytics.AllValidUsers++;
           TempSum += score;
 
+
+
+
+
           //Diplome Stats
-          if (Analytics.DiplomaStats[candit["Nature_diplome_obtenu"]] == null) {
-              Analytics.DiplomaStats[candit["Nature_diplome_obtenu"]] = 1;
-          } else {
-              Analytics.DiplomaStats[candit["Nature_diplome_obtenu"]]++
+          if (Analytics.DiplomaStats[candit["Nature_diplome_obtenu"]] == null) Analytics.DiplomaStats[candit["Nature_diplome_obtenu"]] = 1;
+          else Analytics.DiplomaStats[candit["Nature_diplome_obtenu"]]++;
+
+          if (Analytics.ChoiceStats[candit["Choix_1"]] == null) Analytics.ChoiceStats[candit["Choix_1"]] = 1;
+          else Analytics.ChoiceStats[candit["Choix_1"]]++;
+
+          switch (candit["Nature_diplome_obtenu"]) {
+              case "Licence fondamentale":
+                  if (Analytics.ChoiceStatsLF[candit["Choix_1"]] == null) Analytics.ChoiceStatsLF[candit["Choix_1"]] = 1;
+                  else Analytics.ChoiceStatsLF[candit["Choix_1"]]++;
+                  break;
+              case "Licence appliqu\u00e9e":
+                  if (Analytics.ChoiceStatsLA[candit["Choix_1"]] == null) Analytics.ChoiceStatsLA[candit["Choix_1"]] = 1;
+                  else Analytics.ChoiceStatsLA[candit["Choix_1"]]++;
+                  break;
+              case "Ing\u00e9nierie":
+                  if (Analytics.ChoiceStatsGENIE[candit["Choix_1"]] == null) Analytics.ChoiceStatsGENIE[candit["Choix_1"]] = 1;
+                  else Analytics.ChoiceStatsGENIE[candit["Choix_1"]]++;
+                  break;
+              case "Mast\u00e8re de recherche":
+                  if (Analytics.ChoiceStatsMASRE[candit["Choix_1"]] == null) Analytics.ChoiceStatsMASRE[candit["Choix_1"]] = 1;
+                  else Analytics.ChoiceStatsMASRE[candit["Choix_1"]]++;
+                  break;
+              case "Mast\u00e8re professionnel":
+                  if (Analytics.ChoiceStatsMASPRO[candit["Choix_1"]] == null) Analytics.ChoiceStatsMASPRO[candit["Choix_1"]] = 1;
+                  else Analytics.ChoiceStatsMASPRO[candit["Choix_1"]]++;
+                  break;
+              case "Ma\u00eetrise":
+                  if (Analytics.ChoiceStatsMET[candit["Choix_1"]] == null) Analytics.ChoiceStatsMET[candit["Choix_1"]] = 1;
+                  else Analytics.ChoiceStatsMET[candit["Choix_1"]]++;
+                  break;
+              default:
+                  break;
+          }
+          if (Analytics.Nbr_Sum_Min_Max_Scores[candit["Nature_diplome_obtenu"]] == null) Analytics.Nbr_Sum_Min_Max_Scores[candit["Nature_diplome_obtenu"]] = [1, score, score, score];
+          else {
+              let curr = Analytics.Nbr_Sum_Min_Max_Scores[candit["Nature_diplome_obtenu"]]
+              let nbr = curr[0];
+              nbr++;
+              let somme = curr[1] + score;
+              let min, max;
+              if (curr[2] > score) min = score
+              else min = curr[2];
+
+              if (curr[3] < score) max = score
+              else max = curr[3];
+              Analytics.Nbr_Sum_Min_Max_Scores[candit["Nature_diplome_obtenu"]] = [nbr, somme, min, max]
           }
 
-          if (candit["Choix_1"] === "MPISI") {
-              if (Analytics.DiplomaStatsMPISI[candit["Nature_diplome_obtenu"]] == null) {
-                  Analytics.DiplomaStatsMPISI[candit["Nature_diplome_obtenu"]] = 1;
-              } else {
-                  Analytics.DiplomaStatsMPISI[candit["Nature_diplome_obtenu"]]++
-              }
-          }
 
-          if (candit["Choix_1"] === "MRMSRA") {
-              if (Analytics.DiplomaStatsMRMSRA[candit["Nature_diplome_obtenu"]] == null) {
-                  Analytics.DiplomaStatsMRMSRA[candit["Nature_diplome_obtenu"]] = 1;
-              } else {
-                  Analytics.DiplomaStatsMRMSRA[candit["Nature_diplome_obtenu"]]++
-              }
-          }
+          // par mastere
+          if (Analytics.Nbr_Sum_Min_Max_Scores_Mastere[candit["Choix_1"]] == null) Analytics.Nbr_Sum_Min_Max_Scores_Mastere[candit["Choix_1"]] = [1, score, score, score];
+          else {
+              let curr = Analytics.Nbr_Sum_Min_Max_Scores_Mastere[candit["Choix_1"]]
+              let nbr = curr[0];
+              nbr++;
+              let somme = curr[1] + score;
+              let min, max;
+              if (curr[2] > score) min = score
+              else min = curr[2];
 
-
-          if (Analytics.ChoiceStats[candit["Choix_1"]] == null) {
-              Analytics.ChoiceStats[candit["Choix_1"]] = 1;
-          } else {
-              Analytics.ChoiceStats[candit["Choix_1"]]++
-          }
-
-
-          if (candit["Nature_diplome_obtenu"] === "Licence fondamentale") {
-
-              if (Analytics.ChoiceStatsLF[candit["Choix_1"]] == null) {
-                  Analytics.ChoiceStatsLF[candit["Choix_1"]] = 1;
-              } else {
-                  Analytics.ChoiceStatsLF[candit["Choix_1"]]++
-              }
-          }
-          if (candit["Nature_diplome_obtenu"] === "Licence appliqu\u00e9e") {
-
-
-              if (Analytics.ChoiceStatsLA[candit["Choix_1"]] == null) {
-                  Analytics.ChoiceStatsLA[candit["Choix_1"]] = 1;
-              } else {
-                  Analytics.ChoiceStatsLA[candit["Choix_1"]]++
-              }
-          }
-          if (candit["Nature_diplome_obtenu"] === "Ing\u00e9nierie") {
-
-              if (Analytics.ChoiceStatsGENIE[candit["Choix_1"]] == null) {
-                  Analytics.ChoiceStatsGENIE[candit["Choix_1"]] = 1;
-              } else {
-                  Analytics.ChoiceStatsGENIE[candit["Choix_1"]]++
-              }
-          }
-          if (candit["Nature_diplome_obtenu"] === "Mast\u00e8re de recherche") {
-
-              if (Analytics.ChoiceStatsMASRE[candit["Choix_1"]] == null) {
-                  Analytics.ChoiceStatsMASRE[candit["Choix_1"]] = 1;
-              } else {
-                  Analytics.ChoiceStatsMASRE[candit["Choix_1"]]++
-              }
-          }
-          if (candit["Nature_diplome_obtenu"] === "Mast\u00e8re professionnel") {
-
-              if (Analytics.ChoiceStatsMASPRO[candit["Choix_1"]] == null) {
-                  Analytics.ChoiceStatsMASPRO[candit["Choix_1"]] = 1;
-              } else {
-                  Analytics.ChoiceStatsMASPRO[candit["Choix_1"]]++
-              }
-          }
-          if (candit["Nature_diplome_obtenu"] === "Ma\u00eetrise") {
-              if (Analytics.ChoiceStatsMET[candit["Choix_1"]] == null) {
-                  Analytics.ChoiceStatsMET[candit["Choix_1"]] = 1;
-              } else {
-                  Analytics.ChoiceStatsMET[candit["Choix_1"]]++
-              }
+              if (curr[3] < score) max = score
+              else max = curr[3];
+              Analytics.Nbr_Sum_Min_Max_Scores_Mastere[candit["Choix_1"]] = [nbr, somme, min, max]
           }
       };
   });
@@ -154,13 +146,9 @@
 
   /// setting us the Data 
   let diplomaData_all = []
-  let diplomaDataMPISI = []
-  let diplomaDataMRMSRA = []
 
   DiplomaLabels.forEach(Dip => {
       diplomaData_all.push(Analytics.DiplomaStats[Dip]);
-      diplomaDataMPISI.push(Analytics.DiplomaStatsMPISI[Dip]);
-      diplomaDataMRMSRA.push(Analytics.DiplomaStatsMRMSRA[Dip]);
   });
 
 
@@ -190,3 +178,34 @@
       choixData_all.push(Analytics.ChoiceStats[ch]);
 
   });
+
+  let diplomes_nbr = [];
+  let diplomes_avg = [];
+  let diplomes_min = [];
+  let diplomes_max = [];
+
+  /// avg min max // par type de diplome 
+  DiplomaLabels.forEach(Dip => {
+      let [nbr, somme, min, max] = Analytics.Nbr_Sum_Min_Max_Scores[Dip]
+      let avg = somme / nbr;
+      diplomes_nbr.push(nbr);
+      diplomes_avg.push(avg);
+      diplomes_min.push(min);
+      diplomes_max.push(max);
+
+  });
+
+  let choix_mastere_nbr = [];
+  let choix_mastere_avg = [];
+  let choix_mastere_min = [];
+  let choix_mastere_max = [];
+
+  ChoiceLabels.forEach(Dip => {
+    let [nbr, somme, min, max] = Analytics.Nbr_Sum_Min_Max_Scores_Mastere[Dip]
+    let avg = somme / nbr;
+    choix_mastere_nbr.push(nbr);
+    choix_mastere_avg.push(avg);
+    choix_mastere_min.push(min);
+    choix_mastere_max.push(max);
+
+});
