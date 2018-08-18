@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Charts</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.7.2/dist/Chart.js"></script>
+    <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
+    <script src="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"></script> -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<style>
+    .main-wrapper {
+        display: grid;
+        grid-template-rows: repeat(5, 500px);
+        grid-gap: 1px;
+    }
+
+    .item {
+    }
+
+
+    .chart {
+        margin: auto;
+    }
+</style>
+
+<body>
+    <div class="main-wrapper">
+        <div class=" item">
+            <canvas class="chart" id="fsm-all-pie"></canvas>
+        </div>
+        <div class=" item">
+         
+        </div>
+        <div class=" item">
+                <canvas class="chart" id="fsm-all-choix"></canvas>
+        </div>
+        <div class=" item">
+
+        </div>
+
+
+
+    </div>
+    <script src="data.all.js"></script>
+    <script src="process.js"></script>
+    <script src="charts.js"></script>
+</body>
+
+
+</html>

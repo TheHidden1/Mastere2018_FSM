@@ -8,7 +8,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPTC",
     "Choix_4": "MPER",
-    "Score": "29,32"
+    "Score": "29.32"
   },
   {
     "N_Dossier": " 13/2018",
@@ -19,7 +19,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "MPTC",
-    "Score": "35,86"
+    "Score": "35.86"
   },
   {
     "N_Dossier": " 28/2018",
@@ -30,7 +30,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "40,00"
+    "Score": "40.00"
   },
   {
     "N_Dossier": " 30/2018",
@@ -41,7 +41,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,45"
+    "Score": "32.45"
   },
   {
     "N_Dossier": " 39/2018",
@@ -52,7 +52,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,86"
+    "Score": "36.86"
   },
   {
     "N_Dossier": " 40/2018",
@@ -63,7 +63,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "43,84"
+    "Score": "43.84"
   },
   {
     "N_Dossier": " 55/2018",
@@ -74,7 +74,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,97"
+    "Score": "34.97"
   },
   {
     "N_Dossier": " 57/2018",
@@ -85,7 +85,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPER",
     "Choix_4": "MRMNE",
-    "Score": "33,09"
+    "Score": "33.09"
   },
   {
     "N_Dossier": " 58/2018",
@@ -96,7 +96,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,27"
+    "Score": "32.27"
   },
   {
     "N_Dossier": " 60/2018",
@@ -107,7 +107,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MPER",
     "Choix_4": "MPTC",
-    "Score": "33,06"
+    "Score": "33.06"
   },
   {
     "N_Dossier": " 63/2018",
@@ -118,7 +118,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "46,76"
+    "Score": "46.76"
   },
   {
     "N_Dossier": " 68/2018",
@@ -129,7 +129,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "43,97"
+    "Score": "43.97"
   },
   {
     "N_Dossier": " 74/2018",
@@ -140,7 +140,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,57"
+    "Score": "38.57"
   },
   {
     "N_Dossier": " 87/2018",
@@ -151,7 +151,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "MPTC",
-    "Score": "37,18"
+    "Score": "37.18"
   },
   {
     "N_Dossier": " 89/2018",
@@ -162,7 +162,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "40,06"
+    "Score": "40.06"
   },
   {
     "N_Dossier": " 98/2018",
@@ -173,7 +173,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "MPTC",
-    "Score": "40,80"
+    "Score": "40.80"
   },
   {
     "N_Dossier": " 107/2018",
@@ -184,7 +184,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,31"
+    "Score": "36.31"
   },
   {
     "N_Dossier": " 109/2018",
@@ -195,7 +195,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MRMNS",
-    "Score": "39,75"
+    "Score": "39.75"
   },
   {
     "N_Dossier": " 118/2018",
@@ -206,7 +206,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRMNE",
     "Choix_4": "MPEAPCI",
-    "Score": "31,00"
+    "Score": "31.00"
   },
   {
     "N_Dossier": " 123/2018",
@@ -217,7 +217,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPTC",
     "Choix_4": "",
-    "Score": "48,14"
+    "Score": "48.14"
   },
   {
     "N_Dossier": " 125/2018",
@@ -228,7 +228,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,08"
+    "Score": "35.08"
   },
   {
     "N_Dossier": " 132/2018",
@@ -239,7 +239,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "40,26"
+    "Score": "40.26"
   },
   {
     "N_Dossier": " 138/2018",
@@ -250,7 +250,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPSE",
     "Choix_4": "MRMNS",
-    "Score": "30,35"
+    "Score": "30.35"
   },
   {
     "N_Dossier": " 145/2018",
@@ -261,7 +261,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,11"
+    "Score": "38.11"
   },
   {
     "N_Dossier": " 147/2018",
@@ -272,7 +272,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "41,68"
+    "Score": "41.68"
   },
   {
     "N_Dossier": " 155/2018",
@@ -283,7 +283,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPSE",
     "Choix_4": "MRPQ",
-    "Score": "30,24"
+    "Score": "30.24"
   },
   {
     "N_Dossier": " 158/2018",
@@ -294,7 +294,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,13"
+    "Score": "39.13"
   },
   {
     "N_Dossier": " 172/2018",
@@ -305,7 +305,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "32,73"
+    "Score": "32.73"
   },
   {
     "N_Dossier": " 173/2018",
@@ -316,7 +316,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "36,32"
+    "Score": "36.32"
   },
   {
     "N_Dossier": " 174/2018",
@@ -327,7 +327,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRMNE",
     "Choix_4": "MRPQ",
-    "Score": "37,65"
+    "Score": "37.65"
   },
   {
     "N_Dossier": " 177/2018",
@@ -338,7 +338,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "MPTC",
-    "Score": "38,27"
+    "Score": "38.27"
   },
   {
     "N_Dossier": " 185/2018",
@@ -349,7 +349,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,82"
+    "Score": "32.82"
   },
   {
     "N_Dossier": " 188/2018",
@@ -360,7 +360,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "39,18"
+    "Score": "39.18"
   },
   {
     "N_Dossier": " 193/2018",
@@ -371,7 +371,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRSPCM",
     "Choix_4": "",
-    "Score": "42,19"
+    "Score": "42.19"
   },
   {
     "N_Dossier": " 202/2018",
@@ -382,7 +382,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRPQ",
     "Choix_4": "MPTC",
-    "Score": "35,17"
+    "Score": "35.17"
   },
   {
     "N_Dossier": " 203/2018",
@@ -393,7 +393,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,18"
+    "Score": "36.18"
   },
   {
     "N_Dossier": " 209/2018",
@@ -404,7 +404,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRMNS",
     "Choix_4": "MPER",
-    "Score": "28,97"
+    "Score": "28.97"
   },
   {
     "N_Dossier": " 212/2018",
@@ -415,7 +415,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "42,36"
+    "Score": "42.36"
   },
   {
     "N_Dossier": " 215/2018",
@@ -426,7 +426,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRSPCM",
     "Choix_4": "",
-    "Score": "42,73"
+    "Score": "42.73"
   },
   {
     "N_Dossier": " 217/2018",
@@ -437,7 +437,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "47,10"
+    "Score": "47.10"
   },
   {
     "N_Dossier": " 223/2018",
@@ -448,7 +448,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "41,55"
+    "Score": "41.55"
   },
   {
     "N_Dossier": " 227/2018",
@@ -459,7 +459,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "27,69"
+    "Score": "27.69"
   },
   {
     "N_Dossier": " 229/2018",
@@ -470,7 +470,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "29,90"
+    "Score": "29.90"
   },
   {
     "N_Dossier": " 237/2018",
@@ -481,7 +481,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,80"
+    "Score": "37.80"
   },
   {
     "N_Dossier": " 240/2018",
@@ -492,7 +492,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "37,28"
+    "Score": "37.28"
   },
   {
     "N_Dossier": " 243/2018",
@@ -503,7 +503,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MRPQ",
     "Choix_4": "MPSE",
-    "Score": "34,81"
+    "Score": "34.81"
   },
   {
     "N_Dossier": " 247/2018",
@@ -514,7 +514,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,22"
+    "Score": "34.22"
   },
   {
     "N_Dossier": " 249/2018",
@@ -525,7 +525,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "33,96"
+    "Score": "33.96"
   },
   {
     "N_Dossier": " 254/2018",
@@ -536,7 +536,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "41,36"
+    "Score": "41.36"
   },
   {
     "N_Dossier": " 258/2018",
@@ -547,7 +547,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPSE",
     "Choix_4": "MRMSRA",
-    "Score": "30,66"
+    "Score": "30.66"
   },
   {
     "N_Dossier": " 267/2018",
@@ -558,7 +558,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRMNE",
     "Choix_4": "MPER",
-    "Score": "32,05"
+    "Score": "32.05"
   },
   {
     "N_Dossier": " 268/2018",
@@ -569,7 +569,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "30,82"
+    "Score": "30.82"
   },
   {
     "N_Dossier": " 272/2018",
@@ -580,7 +580,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MRMSRA",
     "Choix_4": "MPTC",
-    "Score": "32,72"
+    "Score": "32.72"
   },
   {
     "N_Dossier": " 288/2018",
@@ -591,7 +591,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRSPCM",
     "Choix_4": "",
-    "Score": "40,19"
+    "Score": "40.19"
   },
   {
     "N_Dossier": " 292/2018",
@@ -602,7 +602,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,18"
+    "Score": "33.18"
   },
   {
     "N_Dossier": " 294/2018",
@@ -613,7 +613,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,18"
+    "Score": "36.18"
   },
   {
     "N_Dossier": " 307/2018",
@@ -624,7 +624,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,45"
+    "Score": "35.45"
   },
   {
     "N_Dossier": " 313/2018",
@@ -635,7 +635,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 322/2018",
@@ -646,7 +646,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "45,58"
+    "Score": "45.58"
   },
   {
     "N_Dossier": " 324/2018",
@@ -657,7 +657,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "40,88"
+    "Score": "40.88"
   },
   {
     "N_Dossier": " 333/2018",
@@ -668,7 +668,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "40,25"
+    "Score": "40.25"
   },
   {
     "N_Dossier": " 339/2018",
@@ -679,7 +679,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "42,27"
+    "Score": "42.27"
   },
   {
     "N_Dossier": " 342/2018",
@@ -690,7 +690,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "29,32"
+    "Score": "29.32"
   },
   {
     "N_Dossier": " 344/2018",
@@ -701,7 +701,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRMNS",
     "Choix_4": "MPER",
-    "Score": "32,72"
+    "Score": "32.72"
   },
   {
     "N_Dossier": " 348/2018",
@@ -712,7 +712,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "40,75"
+    "Score": "40.75"
   },
   {
     "N_Dossier": " 353/2018",
@@ -723,7 +723,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "36,17"
+    "Score": "36.17"
   },
   {
     "N_Dossier": " 362/2018",
@@ -734,7 +734,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,11"
+    "Score": "34.11"
   },
   {
     "N_Dossier": " 367/2018",
@@ -745,7 +745,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "39,23"
+    "Score": "39.23"
   },
   {
     "N_Dossier": " 374/2018",
@@ -756,7 +756,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "MPTC",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 378/2018",
@@ -767,7 +767,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "38,55"
+    "Score": "38.55"
   },
   {
     "N_Dossier": " 380/2018",
@@ -778,7 +778,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MRMSRA",
     "Choix_4": "MPTC",
-    "Score": "39,94"
+    "Score": "39.94"
   },
   {
     "N_Dossier": " 384/2018",
@@ -789,7 +789,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 385/2018",
@@ -800,7 +800,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPTC",
     "Choix_4": "MRMNE",
-    "Score": "37,22"
+    "Score": "37.22"
   },
   {
     "N_Dossier": " 392/2018",
@@ -811,7 +811,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,54"
+    "Score": "37.54"
   },
   {
     "N_Dossier": " 393/2018",
@@ -822,7 +822,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "42,03"
+    "Score": "42.03"
   },
   {
     "N_Dossier": " 395/2018",
@@ -833,7 +833,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "40,80"
+    "Score": "40.80"
   },
   {
     "N_Dossier": " 413/2018",
@@ -844,7 +844,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRMSRA",
     "Choix_4": "MPSE",
-    "Score": "39,75"
+    "Score": "39.75"
   },
   {
     "N_Dossier": " 415/2018",
@@ -855,7 +855,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,22"
+    "Score": "32.22"
   },
   {
     "N_Dossier": " 417/2018",
@@ -866,7 +866,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "34,14"
+    "Score": "34.14"
   },
   {
     "N_Dossier": " 418/2018",
@@ -877,7 +877,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,50"
+    "Score": "33.50"
   },
   {
     "N_Dossier": " 419/2018",
@@ -888,7 +888,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,93"
+    "Score": "34.93"
   },
   {
     "N_Dossier": " 420/2018",
@@ -899,7 +899,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "26,09"
+    "Score": "26.09"
   },
   {
     "N_Dossier": " 424/2018",
@@ -910,7 +910,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,79"
+    "Score": "31.79"
   },
   {
     "N_Dossier": " 429/2018",
@@ -921,7 +921,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,90"
+    "Score": "38.90"
   },
   {
     "N_Dossier": " 433/2018",
@@ -932,7 +932,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,27"
+    "Score": "33.27"
   },
   {
     "N_Dossier": " 435/2018",
@@ -943,7 +943,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,71"
+    "Score": "36.71"
   },
   {
     "N_Dossier": " 437/2018",
@@ -954,7 +954,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 438/2018",
@@ -965,7 +965,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNS",
     "Choix_4": "MRMNE",
-    "Score": "33,10"
+    "Score": "33.10"
   },
   {
     "N_Dossier": " 445/2018",
@@ -976,7 +976,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,71"
+    "Score": "36.71"
   },
   {
     "N_Dossier": " 447/2018",
@@ -987,7 +987,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,14"
+    "Score": "33.14"
   },
   {
     "N_Dossier": " 452/2018",
@@ -998,7 +998,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,33"
+    "Score": "39.33"
   },
   {
     "N_Dossier": " 454/2018",
@@ -1009,7 +1009,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,06"
+    "Score": "38.06"
   },
   {
     "N_Dossier": " 460/2018",
@@ -1020,7 +1020,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPTC",
     "Choix_4": "MRMNE",
-    "Score": "38,60"
+    "Score": "38.60"
   },
   {
     "N_Dossier": " 490/2018",
@@ -1031,7 +1031,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRSPCM",
     "Choix_4": "",
-    "Score": "38,41"
+    "Score": "38.41"
   },
   {
     "N_Dossier": " 498/2018",
@@ -1042,7 +1042,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "MPER",
-    "Score": "40,49"
+    "Score": "40.49"
   },
   {
     "N_Dossier": " 507/2018",
@@ -1053,7 +1053,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,26"
+    "Score": "35.26"
   },
   {
     "N_Dossier": " 509/2018",
@@ -1064,7 +1064,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,27"
+    "Score": "39.27"
   },
   {
     "N_Dossier": " 515/2018",
@@ -1075,7 +1075,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "MPTC",
-    "Score": "33,28"
+    "Score": "33.28"
   },
   {
     "N_Dossier": " 520/2018",
@@ -1086,7 +1086,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,62"
+    "Score": "39.62"
   },
   {
     "N_Dossier": " 524/2018",
@@ -1097,7 +1097,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "45,22"
+    "Score": "45.22"
   },
   {
     "N_Dossier": " 529/2018",
@@ -1108,7 +1108,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRMNS",
     "Choix_4": "MPSE",
-    "Score": "38,06"
+    "Score": "38.06"
   },
   {
     "N_Dossier": " 534/2018",
@@ -1119,7 +1119,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPTC",
     "Choix_4": "",
-    "Score": "36,54"
+    "Score": "36.54"
   },
   {
     "N_Dossier": " 535/2018",
@@ -1130,7 +1130,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "MRPQ",
-    "Score": "26,06"
+    "Score": "26.06"
   },
   {
     "N_Dossier": " 547/2018",
@@ -1141,7 +1141,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,00"
+    "Score": "35.00"
   },
   {
     "N_Dossier": " 572/2018",
@@ -1152,7 +1152,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MRMNS",
     "Choix_4": "MPTC",
-    "Score": "46,39"
+    "Score": "46.39"
   },
   {
     "N_Dossier": " 574/2018",
@@ -1163,7 +1163,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,42"
+    "Score": "31.42"
   },
   {
     "N_Dossier": " 587/2018",
@@ -1174,7 +1174,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,11"
+    "Score": "39.11"
   },
   {
     "N_Dossier": " 599/2018",
@@ -1185,7 +1185,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MRSPCM",
     "Choix_4": "",
-    "Score": "42,74"
+    "Score": "42.74"
   },
   {
     "N_Dossier": " 604/2018",
@@ -1196,7 +1196,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "37,73"
+    "Score": "37.73"
   },
   {
     "N_Dossier": " 608/2018",
@@ -1207,7 +1207,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "43,79"
+    "Score": "43.79"
   },
   {
     "N_Dossier": " 617/2018",
@@ -1218,7 +1218,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,37"
+    "Score": "32.37"
   },
   {
     "N_Dossier": " 618/2018",
@@ -1229,7 +1229,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MPER",
     "Choix_4": "MPSE",
-    "Score": "39,66"
+    "Score": "39.66"
   },
   {
     "N_Dossier": " 619/2018",
@@ -1240,7 +1240,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MPTC",
     "Choix_4": "MPER",
-    "Score": "38,38"
+    "Score": "38.38"
   },
   {
     "N_Dossier": " 623/2018",
@@ -1251,7 +1251,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 638/2018",
@@ -1262,7 +1262,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "42,57"
+    "Score": "42.57"
   },
   {
     "N_Dossier": " 645/2018",
@@ -1273,7 +1273,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,60"
+    "Score": "31.60"
   },
   {
     "N_Dossier": " 653/2018",
@@ -1284,7 +1284,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,96"
+    "Score": "35.96"
   },
   {
     "N_Dossier": " 658/2018",
@@ -1295,7 +1295,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "40,50"
+    "Score": "40.50"
   },
   {
     "N_Dossier": " 664/2018",
@@ -1306,7 +1306,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,52"
+    "Score": "36.52"
   },
   {
     "N_Dossier": " 674/2018",
@@ -1317,7 +1317,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,28"
+    "Score": "32.28"
   },
   {
     "N_Dossier": " 680/2018",
@@ -1328,7 +1328,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,92"
+    "Score": "36.92"
   },
   {
     "N_Dossier": " 684/2018",
@@ -1339,7 +1339,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MPER",
-    "Score": "36,92"
+    "Score": "36.92"
   },
   {
     "N_Dossier": " 692/2018",
@@ -1350,7 +1350,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "MPER",
-    "Score": "42,00"
+    "Score": "42.00"
   },
   {
     "N_Dossier": " 694/2018",
@@ -1361,7 +1361,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "28,10"
+    "Score": "28.10"
   },
   {
     "N_Dossier": " 698/2018",
@@ -1372,7 +1372,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "35,42"
+    "Score": "35.42"
   },
   {
     "N_Dossier": " 700/2018",
@@ -1383,7 +1383,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,55"
+    "Score": "37.55"
   },
   {
     "N_Dossier": " 705/2018",
@@ -1394,7 +1394,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRSPCM",
     "Choix_4": "MRMNE",
-    "Score": "40,80"
+    "Score": "40.80"
   },
   {
     "N_Dossier": " 710/2018",
@@ -1405,7 +1405,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "",
-    "Score": "41,92"
+    "Score": "41.92"
   },
   {
     "N_Dossier": " 713/2018",
@@ -1416,7 +1416,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "40,04"
+    "Score": "40.04"
   },
   {
     "N_Dossier": " 722/2018",
@@ -1427,7 +1427,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,42"
+    "Score": "35.42"
   },
   {
     "N_Dossier": " 727/2018",
@@ -1438,7 +1438,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,55"
+    "Score": "38.55"
   },
   {
     "N_Dossier": " 729/2018",
@@ -1449,7 +1449,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRSPCM",
     "Choix_4": "",
-    "Score": "42,44"
+    "Score": "42.44"
   },
   {
     "N_Dossier": " 732/2018",
@@ -1460,7 +1460,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MPER",
     "Choix_4": "MPTC",
-    "Score": "32,53"
+    "Score": "32.53"
   },
   {
     "N_Dossier": " 737/2018",
@@ -1471,7 +1471,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "MPTC",
-    "Score": "38,94"
+    "Score": "38.94"
   },
   {
     "N_Dossier": " 740/2018",
@@ -1482,7 +1482,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MRMSRA",
     "Choix_4": "MPSE",
-    "Score": "30,93"
+    "Score": "30.93"
   },
   {
     "N_Dossier": " 744/2018",
@@ -1493,7 +1493,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPSE",
     "Choix_4": "MRMNS",
-    "Score": "43,98"
+    "Score": "43.98"
   },
   {
     "N_Dossier": " 754/2018",
@@ -1504,7 +1504,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,28"
+    "Score": "36.28"
   },
   {
     "N_Dossier": " 762/2018",
@@ -1515,7 +1515,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRMNE",
     "Choix_4": "MPER",
-    "Score": "37,06"
+    "Score": "37.06"
   },
   {
     "N_Dossier": " 764/2018",
@@ -1526,7 +1526,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,25"
+    "Score": "31.25"
   },
   {
     "N_Dossier": " 774/2018",
@@ -1537,7 +1537,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "42,70"
+    "Score": "42.70"
   },
   {
     "N_Dossier": " 779/2018",
@@ -1548,7 +1548,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,96"
+    "Score": "31.96"
   },
   {
     "N_Dossier": " 782/2018",
@@ -1559,7 +1559,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 785/2018",
@@ -1570,7 +1570,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,08"
+    "Score": "35.08"
   },
   {
     "N_Dossier": " 789/2018",
@@ -1581,7 +1581,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "",
-    "Score": "46,49"
+    "Score": "46.49"
   },
   {
     "N_Dossier": " 793/2018",
@@ -1592,7 +1592,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,30"
+    "Score": "34.30"
   },
   {
     "N_Dossier": " 797/2018",
@@ -1603,7 +1603,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,16"
+    "Score": "34.16"
   },
   {
     "N_Dossier": " 802/2018",
@@ -1614,7 +1614,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "33,02"
+    "Score": "33.02"
   },
   {
     "N_Dossier": " 807/2018",
@@ -1625,7 +1625,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRPQ",
     "Choix_4": "MPER",
-    "Score": "34,39"
+    "Score": "34.39"
   },
   {
     "N_Dossier": " 810/2018",
@@ -1636,7 +1636,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MRMNS",
     "Choix_4": "MPER",
-    "Score": "40,21"
+    "Score": "40.21"
   },
   {
     "N_Dossier": " 820/2018",
@@ -1647,7 +1647,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MRMSRA",
     "Choix_4": "",
-    "Score": "45,81"
+    "Score": "45.81"
   },
   {
     "N_Dossier": " 824/2018",
@@ -1658,7 +1658,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "",
-    "Score": "39,41"
+    "Score": "39.41"
   },
   {
     "N_Dossier": " 828/2018",
@@ -1669,7 +1669,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "35,17"
+    "Score": "35.17"
   },
   {
     "N_Dossier": " 834/2018",
@@ -1680,7 +1680,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "43,64"
+    "Score": "43.64"
   },
   {
     "N_Dossier": " 839/2018",
@@ -1691,7 +1691,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "35,43"
+    "Score": "35.43"
   },
   {
     "N_Dossier": " 847/2018",
@@ -1702,7 +1702,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPTC",
     "Choix_4": "",
-    "Score": "36,34"
+    "Score": "36.34"
   },
   {
     "N_Dossier": " 850/2018",
@@ -1713,7 +1713,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRPQ",
     "Choix_4": "",
-    "Score": "37,96"
+    "Score": "37.96"
   },
   {
     "N_Dossier": " 859/2018",
@@ -1724,7 +1724,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPISI",
     "Choix_4": "MRMA",
-    "Score": "37,28"
+    "Score": "37.28"
   },
   {
     "N_Dossier": " 864/2018",
@@ -1735,7 +1735,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,01"
+    "Score": "36.01"
   },
   {
     "N_Dossier": " 865/2018",
@@ -1746,7 +1746,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "39,43"
+    "Score": "39.43"
   },
   {
     "N_Dossier": " 898/2018",
@@ -1757,7 +1757,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRMNS",
     "Choix_4": "MPTC",
-    "Score": "45,13"
+    "Score": "45.13"
   },
   {
     "N_Dossier": " 902/2018",
@@ -1768,7 +1768,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRPQ",
     "Choix_4": "MRMNS",
-    "Score": "32,60"
+    "Score": "32.60"
   },
   {
     "N_Dossier": " 910/2018",
@@ -1779,7 +1779,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "MRMNS",
-    "Score": "30,49"
+    "Score": "30.49"
   },
   {
     "N_Dossier": " 912/2018",
@@ -1790,7 +1790,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "40,14"
+    "Score": "40.14"
   },
   {
     "N_Dossier": " 914/2018",
@@ -1801,7 +1801,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "MRMSRA",
-    "Score": "31,54"
+    "Score": "31.54"
   },
   {
     "N_Dossier": " 924/2018",
@@ -1812,7 +1812,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPER",
     "Choix_4": "",
-    "Score": "36,12"
+    "Score": "36.12"
   },
   {
     "N_Dossier": " 934/2018",
@@ -1823,7 +1823,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRPQ",
     "Choix_4": "MPEAPCI",
-    "Score": "40,10"
+    "Score": "40.10"
   },
   {
     "N_Dossier": " 937/2018",
@@ -1834,7 +1834,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,63"
+    "Score": "33.63"
   },
   {
     "N_Dossier": " 942/2018",
@@ -1856,7 +1856,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "MPISI",
     "Choix_4": "MPSE",
-    "Score": "31,21"
+    "Score": "31.21"
   },
   {
     "N_Dossier": " 952/2018",
@@ -1867,7 +1867,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,82"
+    "Score": "39.82"
   },
   {
     "N_Dossier": " 955/2018",
@@ -1878,7 +1878,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "47,45"
+    "Score": "47.45"
   },
   {
     "N_Dossier": " 965/2018",
@@ -1889,7 +1889,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,57"
+    "Score": "34.57"
   },
   {
     "N_Dossier": " 968/2018",
@@ -1900,7 +1900,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,20"
+    "Score": "39.20"
   },
   {
     "N_Dossier": " 969/2018",
@@ -1911,7 +1911,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MRMF",
     "Choix_4": "MRMA",
-    "Score": "36,20"
+    "Score": "36.20"
   },
   {
     "N_Dossier": " 978/2018",
@@ -1922,7 +1922,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "42,59"
+    "Score": "42.59"
   },
   {
     "N_Dossier": " 979/2018",
@@ -1933,7 +1933,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "MPSE",
-    "Score": "34,23"
+    "Score": "34.23"
   },
   {
     "N_Dossier": " 992/2018",
@@ -1944,7 +1944,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "40,70"
+    "Score": "40.70"
   },
   {
     "N_Dossier": " 999/2018",
@@ -1955,7 +1955,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "41,09"
+    "Score": "41.09"
   },
   {
     "N_Dossier": " 1002/2018",
@@ -1966,7 +1966,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,59"
+    "Score": "38.59"
   },
   {
     "N_Dossier": " 1012/2018",
@@ -1977,7 +1977,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "34,87"
+    "Score": "34.87"
   },
   {
     "N_Dossier": " 1014/2018",
@@ -1988,7 +1988,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MRMNE",
-    "Score": "36,38"
+    "Score": "36.38"
   },
   {
     "N_Dossier": " 1042/2018",
@@ -1999,7 +1999,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRPQ",
     "Choix_4": "MPER",
-    "Score": "34,69"
+    "Score": "34.69"
   },
   {
     "N_Dossier": " 1044/2018",
@@ -2010,7 +2010,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MPER",
-    "Score": "33,34"
+    "Score": "33.34"
   },
   {
     "N_Dossier": " 1047/2018",
@@ -2021,7 +2021,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "40,29"
+    "Score": "40.29"
   },
   {
     "N_Dossier": " 1053/2018",
@@ -2032,7 +2032,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "40,40"
+    "Score": "40.40"
   },
   {
     "N_Dossier": " 1057/2018",
@@ -2043,7 +2043,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,30"
+    "Score": "38.30"
   },
   {
     "N_Dossier": " 1058/2018",
@@ -2054,7 +2054,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "42,16"
+    "Score": "42.16"
   },
   {
     "N_Dossier": " 1062/2018",
@@ -2065,7 +2065,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MPTC",
     "Choix_4": "MPISI",
-    "Score": "42,58"
+    "Score": "42.58"
   },
   {
     "N_Dossier": " 1064/2018",
@@ -2076,7 +2076,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,76"
+    "Score": "39.76"
   },
   {
     "N_Dossier": " 1065/2018",
@@ -2087,7 +2087,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,45"
+    "Score": "37.45"
   },
   {
     "N_Dossier": " 1069/2018",
@@ -2098,7 +2098,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,53"
+    "Score": "35.53"
   },
   {
     "N_Dossier": " 1074/2018",
@@ -2109,7 +2109,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MRMSRA",
     "Choix_4": "MPER",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 1092/2018",
@@ -2120,7 +2120,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "38,33"
+    "Score": "38.33"
   },
   {
     "N_Dossier": " 1102/2018",
@@ -2131,7 +2131,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MPER",
-    "Score": "33,90"
+    "Score": "33.90"
   },
   {
     "N_Dossier": " 1108/2018",
@@ -2142,7 +2142,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "41,22"
+    "Score": "41.22"
   },
   {
     "N_Dossier": " 1109/2018",
@@ -2153,7 +2153,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,85"
+    "Score": "39.85"
   },
   {
     "N_Dossier": " 1110/2018",
@@ -2164,7 +2164,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,70"
+    "Score": "39.70"
   },
   {
     "N_Dossier": " 1124/2018",
@@ -2175,7 +2175,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,37"
+    "Score": "35.37"
   },
   {
     "N_Dossier": " 1137/2018",
@@ -2186,7 +2186,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "38,01"
+    "Score": "38.01"
   },
   {
     "N_Dossier": " 1139/2018",
@@ -2197,7 +2197,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MRMF",
     "Choix_4": "MRMA",
-    "Score": "37,66"
+    "Score": "37.66"
   },
   {
     "N_Dossier": " 1145/2018",
@@ -2208,7 +2208,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRPQ",
     "Choix_4": "MRMSRA",
-    "Score": "40,19"
+    "Score": "40.19"
   },
   {
     "N_Dossier": " 1152/2018",
@@ -2219,7 +2219,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "",
-    "Score": "40,76"
+    "Score": "40.76"
   },
   {
     "N_Dossier": " 1157/2018",
@@ -2230,7 +2230,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "46,98"
+    "Score": "46.98"
   },
   {
     "N_Dossier": " 1163/2018",
@@ -2241,7 +2241,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,21"
+    "Score": "31.21"
   },
   {
     "N_Dossier": " 1169/2018",
@@ -2252,7 +2252,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "41,96"
+    "Score": "41.96"
   },
   {
     "N_Dossier": " 1173/2018",
@@ -2263,7 +2263,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPSE",
     "Choix_4": "",
-    "Score": "35,61"
+    "Score": "35.61"
   },
   {
     "N_Dossier": " 1177/2018",
@@ -2274,7 +2274,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,16"
+    "Score": "39.16"
   },
   {
     "N_Dossier": " 1178/2018",
@@ -2285,7 +2285,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "45,65"
+    "Score": "45.65"
   },
   {
     "N_Dossier": " 1185/2018",
@@ -2296,7 +2296,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,51"
+    "Score": "37.51"
   },
   {
     "N_Dossier": " 1188/2018",
@@ -2307,7 +2307,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRMNS",
     "Choix_4": "MRPQ",
-    "Score": "45,84"
+    "Score": "45.84"
   },
   {
     "N_Dossier": " 1198/2018",
@@ -2318,7 +2318,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "41,36"
+    "Score": "41.36"
   },
   {
     "N_Dossier": " 1208/2018",
@@ -2329,7 +2329,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "39,71"
+    "Score": "39.71"
   },
   {
     "N_Dossier": " 1218/2018",
@@ -2340,7 +2340,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MRSPCM",
     "Choix_4": "MRSRCO",
-    "Score": "35,10"
+    "Score": "35.10"
   },
   {
     "N_Dossier": " 1219/2018",
@@ -2351,7 +2351,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "42,85"
+    "Score": "42.85"
   },
   {
     "N_Dossier": " 1224/2018",
@@ -2362,7 +2362,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MRMNE",
-    "Score": "52,10"
+    "Score": "52.10"
   },
   {
     "N_Dossier": " 1227/2018",
@@ -2373,7 +2373,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "40,97"
+    "Score": "40.97"
   },
   {
     "N_Dossier": " 1232/2018",
@@ -2384,7 +2384,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,84"
+    "Score": "39.84"
   },
   {
     "N_Dossier": " 1248/2018",
@@ -2395,7 +2395,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,57"
+    "Score": "34.57"
   },
   {
     "N_Dossier": " 1250/2018",
@@ -2406,7 +2406,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRMNS",
     "Choix_4": "",
-    "Score": "44,79"
+    "Score": "44.79"
   },
   {
     "N_Dossier": " 1254/2018",
@@ -2417,7 +2417,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "40,57"
+    "Score": "40.57"
   },
   {
     "N_Dossier": " 1255/2018",
@@ -2428,7 +2428,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPTC",
     "Choix_4": "",
-    "Score": "38,97"
+    "Score": "38.97"
   },
   {
     "N_Dossier": " 1259/2018",
@@ -2439,7 +2439,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,59"
+    "Score": "31.59"
   },
   {
     "N_Dossier": " 1264/2018",
@@ -2450,7 +2450,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "43,02"
+    "Score": "43.02"
   },
   {
     "N_Dossier": " 1273/2018",
@@ -2461,7 +2461,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRMNE",
     "Choix_4": "MRPQ",
-    "Score": "40,50"
+    "Score": "40.50"
   },
   {
     "N_Dossier": " 1277/2018",
@@ -2472,7 +2472,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,42"
+    "Score": "39.42"
   },
   {
     "N_Dossier": " 1283/2018",
@@ -2483,7 +2483,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,19"
+    "Score": "34.19"
   },
   {
     "N_Dossier": " 1285/2018",
@@ -2494,7 +2494,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,33"
+    "Score": "38.33"
   },
   {
     "N_Dossier": " 1294/2018",
@@ -2505,7 +2505,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "MPISI",
     "Choix_4": "MRMSRA",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 1299/2018",
@@ -2516,7 +2516,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,84"
+    "Score": "37.84"
   },
   {
     "N_Dossier": " 1304/2018",
@@ -2527,7 +2527,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRSRCO",
     "Choix_4": "MRMNE",
-    "Score": "39,02"
+    "Score": "39.02"
   },
   {
     "N_Dossier": " 1308/2018",
@@ -2538,7 +2538,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,99"
+    "Score": "36.99"
   },
   {
     "N_Dossier": " 1309/2018",
@@ -2549,7 +2549,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,83"
+    "Score": "33.83"
   },
   {
     "N_Dossier": " 1312/2018",
@@ -2560,7 +2560,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "MRMA",
     "Choix_4": "MPTC",
-    "Score": "40,36"
+    "Score": "40.36"
   },
   {
     "N_Dossier": " 1327/2018",
@@ -2571,7 +2571,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MRMA",
     "Choix_4": "MPTC",
-    "Score": "32,05"
+    "Score": "32.05"
   },
   {
     "N_Dossier": " 1335/2018",
@@ -2582,7 +2582,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "48,50"
+    "Score": "48.50"
   },
   {
     "N_Dossier": " 1343/2018",
@@ -2593,7 +2593,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,26"
+    "Score": "32.26"
   },
   {
     "N_Dossier": " 1354/2018",
@@ -2604,7 +2604,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,87"
+    "Score": "33.87"
   },
   {
     "N_Dossier": " 1362/2018",
@@ -2615,7 +2615,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "MRMSRA",
     "Choix_4": "",
-    "Score": "27,17"
+    "Score": "27.17"
   },
   {
     "N_Dossier": " 1369/2018",
@@ -2626,7 +2626,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "29,79"
+    "Score": "29.79"
   },
   {
     "N_Dossier": " 1370/2018",
@@ -2637,7 +2637,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "43,57"
+    "Score": "43.57"
   },
   {
     "N_Dossier": " 1378/2018",
@@ -2648,7 +2648,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,60"
+    "Score": "31.60"
   },
   {
     "N_Dossier": " 1380/2018",
@@ -2659,7 +2659,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,41"
+    "Score": "37.41"
   },
   {
     "N_Dossier": " 1388/2018",
@@ -2670,7 +2670,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "42,43"
+    "Score": "42.43"
   },
   {
     "N_Dossier": " 1389/2018",
@@ -2681,7 +2681,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPSE",
     "Choix_4": "",
-    "Score": "36,54"
+    "Score": "36.54"
   },
   {
     "N_Dossier": " 1405/2018",
@@ -2692,7 +2692,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "40,38"
+    "Score": "40.38"
   },
   {
     "N_Dossier": " 1409/2018",
@@ -2703,7 +2703,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "32,02"
+    "Score": "32.02"
   },
   {
     "N_Dossier": " 1412/2018",
@@ -2714,7 +2714,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "46,16"
+    "Score": "46.16"
   },
   {
     "N_Dossier": " 1417/2018",
@@ -2725,7 +2725,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "35,96"
+    "Score": "35.96"
   },
   {
     "N_Dossier": " 1419/2018",
@@ -2736,7 +2736,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "34,56"
+    "Score": "34.56"
   },
   {
     "N_Dossier": " 1429/2018",
@@ -2747,7 +2747,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "35,80"
+    "Score": "35.80"
   },
   {
     "N_Dossier": " 1434/2018",
@@ -2758,7 +2758,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,48"
+    "Score": "37.48"
   },
   {
     "N_Dossier": " 1438/2018",
@@ -2769,7 +2769,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,52"
+    "Score": "39.52"
   },
   {
     "N_Dossier": " 1442/2018",
@@ -2780,7 +2780,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "39,62"
+    "Score": "39.62"
   },
   {
     "N_Dossier": " 1444/2018",
@@ -2791,7 +2791,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "34,71"
+    "Score": "34.71"
   },
   {
     "N_Dossier": " 1447/2018",
@@ -2802,7 +2802,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "MRMSRA",
-    "Score": "26,84"
+    "Score": "26.84"
   },
   {
     "N_Dossier": " 1457/2018",
@@ -2813,7 +2813,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRSPCM",
     "Choix_4": "MPTC",
-    "Score": "34,00"
+    "Score": "34.00"
   },
   {
     "N_Dossier": " 1465/2018",
@@ -2824,7 +2824,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,67"
+    "Score": "37.67"
   },
   {
     "N_Dossier": " 1475/2018",
@@ -2835,7 +2835,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "44,86"
+    "Score": "44.86"
   },
   {
     "N_Dossier": " 1480/2018",
@@ -2846,7 +2846,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "35,95"
+    "Score": "35.95"
   },
   {
     "N_Dossier": " 1482/2018",
@@ -2857,7 +2857,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "39,17"
+    "Score": "39.17"
   },
   {
     "N_Dossier": " 1484/2018",
@@ -2868,7 +2868,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRMNS",
     "Choix_4": "MRMNE",
-    "Score": "42,66"
+    "Score": "42.66"
   },
   {
     "N_Dossier": " 1507/2018",
@@ -2879,7 +2879,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,94"
+    "Score": "35.94"
   },
   {
     "N_Dossier": " 1508/2018",
@@ -2890,7 +2890,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "40,30"
+    "Score": "40.30"
   },
   {
     "N_Dossier": " 1514/2018",
@@ -2901,7 +2901,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "44,55"
+    "Score": "44.55"
   },
   {
     "N_Dossier": " 1517/2018",
@@ -2912,7 +2912,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,81"
+    "Score": "39.81"
   },
   {
     "N_Dossier": " 1525/2018",
@@ -2923,7 +2923,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,10"
+    "Score": "31.10"
   },
   {
     "N_Dossier": " 1530/2018",
@@ -2934,7 +2934,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "39,62"
+    "Score": "39.62"
   },
   {
     "N_Dossier": " 1533/2018",
@@ -2945,7 +2945,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,36"
+    "Score": "34.36"
   },
   {
     "N_Dossier": " 1535/2018",
@@ -2967,7 +2967,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,27"
+    "Score": "35.27"
   },
   {
     "N_Dossier": " 1554/2018",
@@ -2978,7 +2978,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,87"
+    "Score": "39.87"
   },
   {
     "N_Dossier": " 1563/2018",
@@ -2989,7 +2989,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MRMNE",
     "Choix_4": "MPER",
-    "Score": "38,75"
+    "Score": "38.75"
   },
   {
     "N_Dossier": " 1570/2018",
@@ -3000,7 +3000,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "38,36"
+    "Score": "38.36"
   },
   {
     "N_Dossier": " 1572/2018",
@@ -3011,7 +3011,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "35,63"
+    "Score": "35.63"
   },
   {
     "N_Dossier": " 1579/2018",
@@ -3022,7 +3022,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRMSRA",
     "Choix_4": "MPSE",
-    "Score": "29,90"
+    "Score": "29.90"
   },
   {
     "N_Dossier": " 1595/2018",
@@ -3033,7 +3033,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MPER",
-    "Score": "33,45"
+    "Score": "33.45"
   },
   {
     "N_Dossier": " 1599/2018",
@@ -3044,7 +3044,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,77"
+    "Score": "32.77"
   },
   {
     "N_Dossier": " 1603/2018",
@@ -3055,7 +3055,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPISI",
     "Choix_4": "MPSE",
-    "Score": "38,37"
+    "Score": "38.37"
   },
   {
     "N_Dossier": " 1608/2018",
@@ -3066,7 +3066,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "40,72"
+    "Score": "40.72"
   },
   {
     "N_Dossier": " 1613/2018",
@@ -3077,7 +3077,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "MPEAPCI",
-    "Score": "25,51"
+    "Score": "25.51"
   },
   {
     "N_Dossier": " 1615/2018",
@@ -3088,7 +3088,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "40,82"
+    "Score": "40.82"
   },
   {
     "N_Dossier": " 1625/2018",
@@ -3099,7 +3099,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRSPCM",
     "Choix_4": "",
-    "Score": "29,19"
+    "Score": "29.19"
   },
   {
     "N_Dossier": " 1629/2018",
@@ -3110,7 +3110,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,71"
+    "Score": "37.71"
   },
   {
     "N_Dossier": " 1630/2018",
@@ -3121,7 +3121,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "33,03"
+    "Score": "33.03"
   },
   {
     "N_Dossier": " 1638/2018",
@@ -3132,7 +3132,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,80"
+    "Score": "36.80"
   },
   {
     "N_Dossier": " 1645/2018",
@@ -3143,7 +3143,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRMNE",
     "Choix_4": "",
-    "Score": "41,85"
+    "Score": "41.85"
   },
   {
     "N_Dossier": " 1648/2018",
@@ -3154,7 +3154,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "27,35"
+    "Score": "27.35"
   },
   {
     "N_Dossier": " 1652/2018",
@@ -3165,7 +3165,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,75"
+    "Score": "35.75"
   },
   {
     "N_Dossier": " 1657/2018",
@@ -3176,7 +3176,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,25"
+    "Score": "33.25"
   },
   {
     "N_Dossier": " 1669/2018",
@@ -3187,7 +3187,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,08"
+    "Score": "39.08"
   },
   {
     "N_Dossier": " 1677/2018",
@@ -3198,7 +3198,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "",
-    "Score": "38,51"
+    "Score": "38.51"
   },
   {
     "N_Dossier": " 1682/2018",
@@ -3209,7 +3209,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "MRPQ",
-    "Score": "33,52"
+    "Score": "33.52"
   },
   {
     "N_Dossier": " 1685/2018",
@@ -3220,7 +3220,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "36,09"
+    "Score": "36.09"
   },
   {
     "N_Dossier": " 1692/2018",
@@ -3231,7 +3231,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,74"
+    "Score": "36.74"
   },
   {
     "N_Dossier": " 1698/2018",
@@ -3242,7 +3242,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MRMF",
     "Choix_4": "MRMA",
-    "Score": "35,93"
+    "Score": "35.93"
   },
   {
     "N_Dossier": " 1702/2018",
@@ -3253,7 +3253,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,59"
+    "Score": "34.59"
   },
   {
     "N_Dossier": " 1712/2018",
@@ -3264,7 +3264,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "42,66"
+    "Score": "42.66"
   },
   {
     "N_Dossier": " 1715/2018",
@@ -3275,7 +3275,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPSE",
     "Choix_4": "MRMNE",
-    "Score": "38,75"
+    "Score": "38.75"
   },
   {
     "N_Dossier": " 1720/2018",
@@ -3286,7 +3286,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "33,38"
+    "Score": "33.38"
   },
   {
     "N_Dossier": " 1722/2018",
@@ -3297,7 +3297,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,81"
+    "Score": "32.81"
   },
   {
     "N_Dossier": " 1724/2018",
@@ -3308,7 +3308,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,47"
+    "Score": "31.47"
   },
   {
     "N_Dossier": " 1730/2018",
@@ -3319,7 +3319,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MPSE",
     "Choix_4": "MRMNS",
-    "Score": "53,01"
+    "Score": "53.01"
   },
   {
     "N_Dossier": " 1737/2018",
@@ -3330,7 +3330,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "42,63"
+    "Score": "42.63"
   },
   {
     "N_Dossier": " 1743/2018",
@@ -3341,7 +3341,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPTC",
     "Choix_4": "MRMNE",
-    "Score": "37,84"
+    "Score": "37.84"
   },
   {
     "N_Dossier": " 1748/2018",
@@ -3352,7 +3352,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MRMF",
     "Choix_4": "MRMA",
-    "Score": "30,50"
+    "Score": "30.50"
   },
   {
     "N_Dossier": " 1753/2018",
@@ -3363,7 +3363,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "43,66"
+    "Score": "43.66"
   },
   {
     "N_Dossier": " 1759/2018",
@@ -3374,7 +3374,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "33,25"
+    "Score": "33.25"
   },
   {
     "N_Dossier": " 1762/2018",
@@ -3385,7 +3385,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRSPCM",
     "Choix_4": "MPER",
-    "Score": "30,08"
+    "Score": "30.08"
   },
   {
     "N_Dossier": " 1774/2018",
@@ -3396,7 +3396,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "42,07"
+    "Score": "42.07"
   },
   {
     "N_Dossier": " 1780/2018",
@@ -3407,7 +3407,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "38,00"
+    "Score": "38.00"
   },
   {
     "N_Dossier": " 1793/2018",
@@ -3418,7 +3418,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MRPQ",
     "Choix_4": "MPSE",
-    "Score": "36,66"
+    "Score": "36.66"
   },
   {
     "N_Dossier": " 1795/2018",
@@ -3429,7 +3429,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,71"
+    "Score": "36.71"
   },
   {
     "N_Dossier": " 1804/2018",
@@ -3440,7 +3440,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,82"
+    "Score": "32.82"
   },
   {
     "N_Dossier": " 1809/2018",
@@ -3451,7 +3451,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPSE",
     "Choix_4": "MPER",
-    "Score": "30,56"
+    "Score": "30.56"
   },
   {
     "N_Dossier": " 1814/2018",
@@ -3462,7 +3462,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,57"
+    "Score": "38.57"
   },
   {
     "N_Dossier": " 1822/2018",
@@ -3473,7 +3473,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "41,91"
+    "Score": "41.91"
   },
   {
     "N_Dossier": " 1823/2018",
@@ -3484,7 +3484,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "29,91"
+    "Score": "29.91"
   },
   {
     "N_Dossier": " 1828/2018",
@@ -3495,7 +3495,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MPER",
     "Choix_4": "MPTC",
-    "Score": "34,09"
+    "Score": "34.09"
   },
   {
     "N_Dossier": " 1833/2018",
@@ -3506,7 +3506,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPER",
     "Choix_4": "MPSE",
-    "Score": "38,03"
+    "Score": "38.03"
   },
   {
     "N_Dossier": " 1840/2018",
@@ -3517,7 +3517,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRMNS",
     "Choix_4": "MRMNE",
-    "Score": "43,50"
+    "Score": "43.50"
   },
   {
     "N_Dossier": " 1847/2018",
@@ -3528,7 +3528,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "41,00"
+    "Score": "41.00"
   },
   {
     "N_Dossier": " 1859/2018",
@@ -3539,7 +3539,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "38,48"
+    "Score": "38.48"
   },
   {
     "N_Dossier": " 1869/2018",
@@ -3550,7 +3550,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "MPTC",
-    "Score": "29,00"
+    "Score": "29.00"
   },
   {
     "N_Dossier": " 1874/2018",
@@ -3561,7 +3561,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "29,86"
+    "Score": "29.86"
   },
   {
     "N_Dossier": " 1875/2018",
@@ -3572,7 +3572,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRMNE",
     "Choix_4": "MPER",
-    "Score": "36,01"
+    "Score": "36.01"
   },
   {
     "N_Dossier": " 1885/2018",
@@ -3583,7 +3583,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRMNE",
     "Choix_4": "MRSRCO",
-    "Score": "34,73"
+    "Score": "34.73"
   },
   {
     "N_Dossier": " 1895/2018",
@@ -3594,7 +3594,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,54"
+    "Score": "32.54"
   },
   {
     "N_Dossier": " 1899/2018",
@@ -3605,7 +3605,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "MRMNE",
-    "Score": "41,14"
+    "Score": "41.14"
   },
   {
     "N_Dossier": " 1910/2018",
@@ -3616,7 +3616,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "41,83"
+    "Score": "41.83"
   },
   {
     "N_Dossier": " 1919/2018",
@@ -3627,7 +3627,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,76"
+    "Score": "31.76"
   },
   {
     "N_Dossier": " 1924/2018",
@@ -3638,7 +3638,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "30,99"
+    "Score": "30.99"
   },
   {
     "N_Dossier": " 1929/2018",
@@ -3649,7 +3649,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "41,35"
+    "Score": "41.35"
   },
   {
     "N_Dossier": " 1932/2018",
@@ -3660,7 +3660,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "44,31"
+    "Score": "44.31"
   },
   {
     "N_Dossier": " 1935/2018",
@@ -3671,7 +3671,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPER",
     "Choix_4": "MPSE",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 1939/2018",
@@ -3682,7 +3682,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "MRMF",
-    "Score": "38,80"
+    "Score": "38.80"
   },
   {
     "N_Dossier": " 1944/2018",
@@ -3693,7 +3693,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRPQ",
     "Choix_4": "MRMSRA",
-    "Score": "40,08"
+    "Score": "40.08"
   },
   {
     "N_Dossier": " 1948/2018",
@@ -3704,7 +3704,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,22"
+    "Score": "34.22"
   },
   {
     "N_Dossier": " 1962/2018",
@@ -3715,7 +3715,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,99"
+    "Score": "34.99"
   },
   {
     "N_Dossier": " 1967/2018",
@@ -3726,7 +3726,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "41,87"
+    "Score": "41.87"
   },
   {
     "N_Dossier": " 1972/2018",
@@ -3737,7 +3737,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPSE",
     "Choix_4": "MRMNE",
-    "Score": "33,42"
+    "Score": "33.42"
   },
   {
     "N_Dossier": " 1977/2018",
@@ -3748,7 +3748,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,92"
+    "Score": "39.92"
   },
   {
     "N_Dossier": " 1979/2018",
@@ -3759,7 +3759,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "",
-    "Score": "42,18"
+    "Score": "42.18"
   },
   {
     "N_Dossier": " 1987/2018",
@@ -3770,7 +3770,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,79"
+    "Score": "35.79"
   },
   {
     "N_Dossier": " 1994/2018",
@@ -3781,7 +3781,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,04"
+    "Score": "31.04"
   },
   {
     "N_Dossier": " 1995/2018",
@@ -3792,7 +3792,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "36,55"
+    "Score": "36.55"
   },
   {
     "N_Dossier": " 2009/2018",
@@ -3803,7 +3803,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRSPCM",
     "Choix_4": "MRMNS",
-    "Score": "35,52"
+    "Score": "35.52"
   },
   {
     "N_Dossier": " 2014/2018",
@@ -3814,7 +3814,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRSPCM",
     "Choix_4": "MRMNS",
-    "Score": "36,70"
+    "Score": "36.70"
   },
   {
     "N_Dossier": " 2024/2018",
@@ -3825,7 +3825,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "28,63"
+    "Score": "28.63"
   },
   {
     "N_Dossier": " 2029/2018",
@@ -3836,7 +3836,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRMNS",
     "Choix_4": "MPER",
-    "Score": "39,21"
+    "Score": "39.21"
   },
   {
     "N_Dossier": " 2030/2018",
@@ -3847,7 +3847,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "41,64"
+    "Score": "41.64"
   },
   {
     "N_Dossier": " 2039/2018",
@@ -3858,7 +3858,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "33,48"
+    "Score": "33.48"
   },
   {
     "N_Dossier": " 2044/2018",
@@ -3869,7 +3869,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,89"
+    "Score": "38.89"
   },
   {
     "N_Dossier": " 2062/2018",
@@ -3880,7 +3880,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "MRMNS",
-    "Score": "36,34"
+    "Score": "36.34"
   },
   {
     "N_Dossier": " 2077/2018",
@@ -3891,7 +3891,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,38"
+    "Score": "36.38"
   },
   {
     "N_Dossier": " 2089/2018",
@@ -3902,7 +3902,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,99"
+    "Score": "32.99"
   },
   {
     "N_Dossier": " 2100/2018",
@@ -3913,7 +3913,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,26"
+    "Score": "39.26"
   },
   {
     "N_Dossier": " 2114/2018",
@@ -3924,7 +3924,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "41,44"
+    "Score": "41.44"
   },
   {
     "N_Dossier": " 2124/2018",
@@ -3935,7 +3935,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRMNS",
     "Choix_4": "MPEAPCI",
-    "Score": "40,52"
+    "Score": "40.52"
   },
   {
     "N_Dossier": " 2134/2018",
@@ -3946,7 +3946,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MPTC",
     "Choix_4": "",
-    "Score": "37,60"
+    "Score": "37.60"
   },
   {
     "N_Dossier": " 2139/2018",
@@ -3957,7 +3957,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "44,77"
+    "Score": "44.77"
   },
   {
     "N_Dossier": " 2158/2018",
@@ -3968,7 +3968,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRMNE",
     "Choix_4": "MRSPCM",
-    "Score": "37,47"
+    "Score": "37.47"
   },
   {
     "N_Dossier": " 2159/2018",
@@ -3979,7 +3979,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "39,11"
+    "Score": "39.11"
   },
   {
     "N_Dossier": " 2175/2018",
@@ -3990,7 +3990,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "40,42"
+    "Score": "40.42"
   },
   {
     "N_Dossier": " 2185/2018",
@@ -4001,7 +4001,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRSPCM",
     "Choix_4": "MRMNS",
-    "Score": "41,26"
+    "Score": "41.26"
   },
   {
     "N_Dossier": " 2194/2018",
@@ -4012,7 +4012,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MRMNE",
     "Choix_4": "MPISI",
-    "Score": "33,98"
+    "Score": "33.98"
   },
   {
     "N_Dossier": " 2207/2018",
@@ -4023,7 +4023,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MPISI",
     "Choix_4": "MPTC",
-    "Score": "40,44"
+    "Score": "40.44"
   },
   {
     "N_Dossier": " 2208/2018",
@@ -4034,7 +4034,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "40,28"
+    "Score": "40.28"
   },
   {
     "N_Dossier": " 2212/2018",
@@ -4045,7 +4045,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,28"
+    "Score": "35.28"
   },
   {
     "N_Dossier": " 2234/2018",
@@ -4056,7 +4056,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "34,29"
+    "Score": "34.29"
   },
   {
     "N_Dossier": " 2237/2018",
@@ -4067,7 +4067,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRPQ",
     "Choix_4": "MPER",
-    "Score": "32,19"
+    "Score": "32.19"
   },
   {
     "N_Dossier": " 2244/2018",
@@ -4078,7 +4078,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRMNE",
     "Choix_4": "MPER",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 2249/2018",
@@ -4089,7 +4089,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MPER",
     "Choix_4": "MPSE",
-    "Score": "29,87"
+    "Score": "29.87"
   },
   {
     "N_Dossier": " 2250/2018",
@@ -4100,7 +4100,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "36,55"
+    "Score": "36.55"
   },
   {
     "N_Dossier": " 2254/2018",
@@ -4111,7 +4111,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "MRMSRA",
     "Choix_4": "MRPQ",
-    "Score": "32,88"
+    "Score": "32.88"
   },
   {
     "N_Dossier": " 2262/2018",
@@ -4122,7 +4122,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "30,89"
+    "Score": "30.89"
   },
   {
     "N_Dossier": " 2275/2018",
@@ -4133,7 +4133,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,59"
+    "Score": "32.59"
   },
   {
     "N_Dossier": " 2284/2018",
@@ -4144,7 +4144,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,64"
+    "Score": "35.64"
   },
   {
     "N_Dossier": " 2290/2018",
@@ -4155,7 +4155,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,12"
+    "Score": "39.12"
   },
   {
     "N_Dossier": " 2295/2018",
@@ -4166,7 +4166,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "MPER",
-    "Score": "33,14"
+    "Score": "33.14"
   },
   {
     "N_Dossier": " 2299/2018",
@@ -4177,7 +4177,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "42,42"
+    "Score": "42.42"
   },
   {
     "N_Dossier": " 2302/2018",
@@ -4188,7 +4188,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,97"
+    "Score": "36.97"
   },
   {
     "N_Dossier": " 2309/2018",
@@ -4199,7 +4199,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,59"
+    "Score": "36.59"
   },
   {
     "N_Dossier": " 2314/2018",
@@ -4210,7 +4210,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,23"
+    "Score": "39.23"
   },
   {
     "N_Dossier": " 2318/2018",
@@ -4221,7 +4221,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPISI",
     "Choix_4": "MPSE",
-    "Score": "35,43"
+    "Score": "35.43"
   },
   {
     "N_Dossier": " 2319/2018",
@@ -4232,7 +4232,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPTC",
     "Choix_4": "MRPQ",
-    "Score": "38,25"
+    "Score": "38.25"
   },
   {
     "N_Dossier": " 2320/2018",
@@ -4243,7 +4243,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,61"
+    "Score": "33.61"
   },
   {
     "N_Dossier": " 2335/2018",
@@ -4254,7 +4254,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "44,76"
+    "Score": "44.76"
   },
   {
     "N_Dossier": " 2339/2018",
@@ -4265,7 +4265,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "MRMA",
     "Choix_4": "MPISI",
-    "Score": "32,91"
+    "Score": "32.91"
   },
   {
     "N_Dossier": " 2344/2018",
@@ -4276,7 +4276,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRMNE",
     "Choix_4": "",
-    "Score": "39,74"
+    "Score": "39.74"
   },
   {
     "N_Dossier": " 2359/2018",
@@ -4287,7 +4287,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 2369/2018",
@@ -4298,7 +4298,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "34,39"
+    "Score": "34.39"
   },
   {
     "N_Dossier": " 2377/2018",
@@ -4309,7 +4309,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,22"
+    "Score": "35.22"
   },
   {
     "N_Dossier": " 2385/2018",
@@ -4320,7 +4320,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MRMA",
     "Choix_4": "MPTC",
-    "Score": "38,59"
+    "Score": "38.59"
   },
   {
     "N_Dossier": " 2410/2018",
@@ -4331,7 +4331,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "41,99"
+    "Score": "41.99"
   },
   {
     "N_Dossier": " 2425/2018",
@@ -4342,7 +4342,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,20"
+    "Score": "33.20"
   },
   {
     "N_Dossier": " 2429/2018",
@@ -4353,7 +4353,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MPSE",
     "Choix_4": "MPER",
-    "Score": "27,27"
+    "Score": "27.27"
   },
   {
     "N_Dossier": " 2430/2018",
@@ -4364,7 +4364,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "45,09"
+    "Score": "45.09"
   },
   {
     "N_Dossier": " 2439/2018",
@@ -4375,7 +4375,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,51"
+    "Score": "36.51"
   },
   {
     "N_Dossier": " 2449/2018",
@@ -4386,7 +4386,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,37"
+    "Score": "37.37"
   },
   {
     "N_Dossier": " 2452/2018",
@@ -4397,7 +4397,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRMSRA",
     "Choix_4": "MRMF",
-    "Score": "44,03"
+    "Score": "44.03"
   },
   {
     "N_Dossier": " 2460/2018",
@@ -4408,7 +4408,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,25"
+    "Score": "39.25"
   },
   {
     "N_Dossier": " 2474/2018",
@@ -4419,7 +4419,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "MRPQ",
-    "Score": "32,57"
+    "Score": "32.57"
   },
   {
     "N_Dossier": " 2478/2018",
@@ -4430,7 +4430,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,77"
+    "Score": "35.77"
   },
   {
     "N_Dossier": " 2492/2018",
@@ -4441,7 +4441,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPSE",
     "Choix_4": "MPER",
-    "Score": "35,73"
+    "Score": "35.73"
   },
   {
     "N_Dossier": " 2497/2018",
@@ -4452,7 +4452,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPTC",
     "Choix_4": "",
-    "Score": "35,61"
+    "Score": "35.61"
   },
   {
     "N_Dossier": " 2502/2018",
@@ -4463,7 +4463,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,74"
+    "Score": "38.74"
   },
   {
     "N_Dossier": " 2508/2018",
@@ -4474,7 +4474,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,11"
+    "Score": "39.11"
   },
   {
     "N_Dossier": " 2517/2018",
@@ -4485,7 +4485,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "39,19"
+    "Score": "39.19"
   },
   {
     "N_Dossier": " 2527/2018",
@@ -4496,7 +4496,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "33,06"
+    "Score": "33.06"
   },
   {
     "N_Dossier": " 2532/2018",
@@ -4507,7 +4507,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,76"
+    "Score": "35.76"
   },
   {
     "N_Dossier": " 2535/2018",
@@ -4518,7 +4518,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPTC",
     "Choix_4": "MRMNE",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 2540/2018",
@@ -4529,7 +4529,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "45,86"
+    "Score": "45.86"
   },
   {
     "N_Dossier": " 2547/2018",
@@ -4540,7 +4540,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MPER",
     "Choix_4": "MPTC",
-    "Score": "30,58"
+    "Score": "30.58"
   },
   {
     "N_Dossier": " 2555/2018",
@@ -4551,7 +4551,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPSE",
     "Choix_4": "",
-    "Score": "36,25"
+    "Score": "36.25"
   },
   {
     "N_Dossier": " 2565/2018",
@@ -4562,7 +4562,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPTC",
     "Choix_4": "MRMNS",
-    "Score": "36,56"
+    "Score": "36.56"
   },
   {
     "N_Dossier": " 2574/2018",
@@ -4573,7 +4573,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "MRMSRA",
-    "Score": "34,48"
+    "Score": "34.48"
   },
   {
     "N_Dossier": " 2578/2018",
@@ -4584,7 +4584,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MPTC",
     "Choix_4": "MPER",
-    "Score": "37,68"
+    "Score": "37.68"
   },
   {
     "N_Dossier": " 2582/2018",
@@ -4595,7 +4595,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MRMNS",
-    "Score": "31,93"
+    "Score": "31.93"
   },
   {
     "N_Dossier": " 2585/2018",
@@ -4606,7 +4606,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "38,31"
+    "Score": "38.31"
   },
   {
     "N_Dossier": " 2594/2018",
@@ -4617,7 +4617,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MRMNS",
-    "Score": "43,32"
+    "Score": "43.32"
   },
   {
     "N_Dossier": " 2603/2018",
@@ -4628,7 +4628,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "41,44"
+    "Score": "41.44"
   },
   {
     "N_Dossier": " 2607/2018",
@@ -4639,7 +4639,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,16"
+    "Score": "37.16"
   },
   {
     "N_Dossier": " 2615/2018",
@@ -4650,7 +4650,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,79"
+    "Score": "32.79"
   },
   {
     "N_Dossier": " 2638/2018",
@@ -4661,7 +4661,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,30"
+    "Score": "33.30"
   },
   {
     "N_Dossier": " 2647/2018",
@@ -4672,7 +4672,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPSE",
     "Choix_4": "MPER",
-    "Score": "38,05"
+    "Score": "38.05"
   },
   {
     "N_Dossier": " 2655/2018",
@@ -4683,7 +4683,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "47,63"
+    "Score": "47.63"
   },
   {
     "N_Dossier": " 2664/2018",
@@ -4694,7 +4694,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,88"
+    "Score": "35.88"
   },
   {
     "N_Dossier": " 2667/2018",
@@ -4705,7 +4705,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,87"
+    "Score": "37.87"
   },
   {
     "N_Dossier": " 2684/2018",
@@ -4716,7 +4716,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRSPCM",
     "Choix_4": "",
-    "Score": "32,36"
+    "Score": "32.36"
   },
   {
     "N_Dossier": " 2700/2018",
@@ -4727,7 +4727,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,24"
+    "Score": "37.24"
   },
   {
     "N_Dossier": " 2715/2018",
@@ -4738,7 +4738,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "33,50"
+    "Score": "33.50"
   },
   {
     "N_Dossier": " 2728/2018",
@@ -4749,7 +4749,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,80"
+    "Score": "37.80"
   },
   {
     "N_Dossier": " 2740/2018",
@@ -4760,7 +4760,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,32"
+    "Score": "38.32"
   },
   {
     "N_Dossier": " 2748/2018",
@@ -4771,7 +4771,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPTC",
     "Choix_4": "",
-    "Score": "31,34"
+    "Score": "31.34"
   },
   {
     "N_Dossier": " 2749/2018",
@@ -4782,7 +4782,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "40,47"
+    "Score": "40.47"
   },
   {
     "N_Dossier": " 2757/2018",
@@ -4793,7 +4793,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MRSRCO",
-    "Score": "42,75"
+    "Score": "42.75"
   },
   {
     "N_Dossier": " 2762/2018",
@@ -4804,7 +4804,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,24"
+    "Score": "38.24"
   },
   {
     "N_Dossier": " 2780/2018",
@@ -4815,7 +4815,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,07"
+    "Score": "38.07"
   },
   {
     "N_Dossier": " 2785/2018",
@@ -4826,7 +4826,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,96"
+    "Score": "38.96"
   },
   {
     "N_Dossier": " 2798/2018",
@@ -4837,7 +4837,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRSPCM",
     "Choix_4": "",
-    "Score": "33,61"
+    "Score": "33.61"
   },
   {
     "N_Dossier": " 2810/2018",
@@ -4848,7 +4848,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,51"
+    "Score": "31.51"
   },
   {
     "N_Dossier": " 2822/2018",
@@ -4859,7 +4859,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "MRMSRA",
-    "Score": "33,90"
+    "Score": "33.90"
   },
   {
     "N_Dossier": " 2823/2018",
@@ -4870,7 +4870,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,52"
+    "Score": "39.52"
   },
   {
     "N_Dossier": " 2825/2018",
@@ -4881,7 +4881,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "28,25"
+    "Score": "28.25"
   },
   {
     "N_Dossier": " 2845/2018",
@@ -4892,7 +4892,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MRMNE",
     "Choix_4": "MPTC",
-    "Score": "31,37"
+    "Score": "31.37"
   },
   {
     "N_Dossier": " 2850/2018",
@@ -4903,7 +4903,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,52"
+    "Score": "39.52"
   },
   {
     "N_Dossier": " 2858/2018",
@@ -4914,7 +4914,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRMNS",
     "Choix_4": "MPER",
-    "Score": "38,63"
+    "Score": "38.63"
   },
   {
     "N_Dossier": " 2859/2018",
@@ -4925,7 +4925,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MRPQ",
     "Choix_4": "MPER",
-    "Score": "36,09"
+    "Score": "36.09"
   },
   {
     "N_Dossier": " 2864/2018",
@@ -4936,7 +4936,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRSPCM",
     "Choix_4": "MRMNE",
-    "Score": "37,08"
+    "Score": "37.08"
   },
   {
     "N_Dossier": " 2892/2018",
@@ -4947,7 +4947,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "MRMSRA",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 2897/2018",
@@ -4958,7 +4958,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,45"
+    "Score": "32.45"
   },
   {
     "N_Dossier": " 2899/2018",
@@ -4969,7 +4969,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MPER",
-    "Score": "37,90"
+    "Score": "37.90"
   },
   {
     "N_Dossier": " 2903/2018",
@@ -4980,7 +4980,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,85"
+    "Score": "36.85"
   },
   {
     "N_Dossier": " 2912/2018",
@@ -4991,7 +4991,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "27,43"
+    "Score": "27.43"
   },
   {
     "N_Dossier": " 2913/2018",
@@ -5002,7 +5002,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "42,10"
+    "Score": "42.10"
   },
   {
     "N_Dossier": " 2915/2018",
@@ -5013,7 +5013,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,79"
+    "Score": "38.79"
   },
   {
     "N_Dossier": " 2925/2018",
@@ -5024,7 +5024,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 2933/2018",
@@ -5035,7 +5035,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPER",
     "Choix_4": "MPSE",
-    "Score": "34,09"
+    "Score": "34.09"
   },
   {
     "N_Dossier": " 2934/2018",
@@ -5046,7 +5046,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,40"
+    "Score": "36.40"
   },
   {
     "N_Dossier": " 2937/2018",
@@ -5057,7 +5057,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPSE",
     "Choix_4": "MRMNE",
-    "Score": "34,96"
+    "Score": "34.96"
   },
   {
     "N_Dossier": " 2944/2018",
@@ -5068,7 +5068,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRPQ",
     "Choix_4": "",
-    "Score": "29,70"
+    "Score": "29.70"
   },
   {
     "N_Dossier": " 2959/2018",
@@ -5079,7 +5079,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "MRMNS",
-    "Score": "31,27"
+    "Score": "31.27"
   },
   {
     "N_Dossier": " 2962/2018",
@@ -5090,7 +5090,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,82"
+    "Score": "33.82"
   },
   {
     "N_Dossier": " 2970/2018",
@@ -5101,7 +5101,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "34,39"
+    "Score": "34.39"
   },
   {
     "N_Dossier": " 2975/2018",
@@ -5123,7 +5123,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "43,52"
+    "Score": "43.52"
   },
   {
     "N_Dossier": " 2990/2018",
@@ -5134,7 +5134,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "33,19"
+    "Score": "33.19"
   },
   {
     "N_Dossier": " 2998/2018",
@@ -5145,7 +5145,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPTC",
     "Choix_4": "MRMNS",
-    "Score": "34,11"
+    "Score": "34.11"
   },
   {
     "N_Dossier": " 3002/2018",
@@ -5156,7 +5156,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "",
-    "Score": "44,50"
+    "Score": "44.50"
   },
   {
     "N_Dossier": " 3005/2018",
@@ -5167,7 +5167,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPER",
     "Choix_4": "MPISI",
-    "Score": "36,06"
+    "Score": "36.06"
   },
   {
     "N_Dossier": " 3040/2018",
@@ -5178,7 +5178,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "",
-    "Score": "36,02"
+    "Score": "36.02"
   },
   {
     "N_Dossier": " 3043/2018",
@@ -5189,7 +5189,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "40,28"
+    "Score": "40.28"
   },
   {
     "N_Dossier": " 3045/2018",
@@ -5200,7 +5200,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "MRMNE",
-    "Score": "35,54"
+    "Score": "35.54"
   },
   {
     "N_Dossier": " 3049/2018",
@@ -5211,7 +5211,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPISI",
     "Choix_4": "",
-    "Score": "37,17"
+    "Score": "37.17"
   },
   {
     "N_Dossier": " 3050/2018",
@@ -5222,7 +5222,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "47,77"
+    "Score": "47.77"
   },
   {
     "N_Dossier": " 3055/2018",
@@ -5233,7 +5233,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,42"
+    "Score": "39.42"
   },
   {
     "N_Dossier": " 3058/2018",
@@ -5244,7 +5244,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRSPCM",
     "Choix_4": "",
-    "Score": "33,46"
+    "Score": "33.46"
   },
   {
     "N_Dossier": " 3068/2018",
@@ -5255,7 +5255,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,45"
+    "Score": "31.45"
   },
   {
     "N_Dossier": " 3074/2018",
@@ -5266,7 +5266,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRMNS",
     "Choix_4": "MRSPCM",
-    "Score": "45,39"
+    "Score": "45.39"
   },
   {
     "N_Dossier": " 3078/2018",
@@ -5277,7 +5277,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "42,36"
+    "Score": "42.36"
   },
   {
     "N_Dossier": " 3092/2018",
@@ -5288,7 +5288,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "35,39"
+    "Score": "35.39"
   },
   {
     "N_Dossier": " 3098/2018",
@@ -5299,7 +5299,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "44,28"
+    "Score": "44.28"
   },
   {
     "N_Dossier": " 3099/2018",
@@ -5310,7 +5310,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "30,79"
+    "Score": "30.79"
   },
   {
     "N_Dossier": " 3109/2018",
@@ -5321,7 +5321,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MPER",
     "Choix_4": "MPSE",
-    "Score": "36,84"
+    "Score": "36.84"
   },
   {
     "N_Dossier": " 3123/2018",
@@ -5332,7 +5332,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPSE",
     "Choix_4": "MPISI",
-    "Score": "25,49"
+    "Score": "25.49"
   },
   {
     "N_Dossier": " 3124/2018",
@@ -5343,7 +5343,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRSPCM",
     "Choix_4": "",
-    "Score": "41,06"
+    "Score": "41.06"
   },
   {
     "N_Dossier": " 3137/2018",
@@ -5354,7 +5354,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "MPTC",
-    "Score": "39,37"
+    "Score": "39.37"
   },
   {
     "N_Dossier": " 3147/2018",
@@ -5365,7 +5365,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "40,11"
+    "Score": "40.11"
   },
   {
     "N_Dossier": " 3150/2018",
@@ -5376,7 +5376,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "40,35"
+    "Score": "40.35"
   },
   {
     "N_Dossier": " 3153/2018",
@@ -5387,7 +5387,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPSE",
     "Choix_4": "MRPQ",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 3158/2018",
@@ -5398,7 +5398,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 3163/2018",
@@ -5409,7 +5409,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "MPER",
-    "Score": "33,51"
+    "Score": "33.51"
   },
   {
     "N_Dossier": " 3167/2018",
@@ -5420,7 +5420,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,88"
+    "Score": "31.88"
   },
   {
     "N_Dossier": " 3169/2018",
@@ -5431,7 +5431,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "46,79"
+    "Score": "46.79"
   },
   {
     "N_Dossier": " 3170/2018",
@@ -5442,7 +5442,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,57"
+    "Score": "36.57"
   },
   {
     "N_Dossier": " 3175/2018",
@@ -5453,7 +5453,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,62"
+    "Score": "38.62"
   },
   {
     "N_Dossier": " 3178/2018",
@@ -5464,7 +5464,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MRSRCO",
     "Choix_4": "MRPQ",
-    "Score": "36,66"
+    "Score": "36.66"
   },
   {
     "N_Dossier": " 3184/2018",
@@ -5475,7 +5475,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPER",
     "Choix_4": "MRMA",
-    "Score": "29,95"
+    "Score": "29.95"
   },
   {
     "N_Dossier": " 3187/2018",
@@ -5486,7 +5486,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,11"
+    "Score": "36.11"
   },
   {
     "N_Dossier": " 3190/2018",
@@ -5497,7 +5497,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "37,40"
+    "Score": "37.40"
   },
   {
     "N_Dossier": " 3195/2018",
@@ -5508,7 +5508,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "MRMSRA",
     "Choix_4": "MPISI",
-    "Score": "27,67"
+    "Score": "27.67"
   },
   {
     "N_Dossier": " 3203/2018",
@@ -5519,7 +5519,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "41,35"
+    "Score": "41.35"
   },
   {
     "N_Dossier": " 3207/2018",
@@ -5530,7 +5530,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,58"
+    "Score": "37.58"
   },
   {
     "N_Dossier": " 3214/2018",
@@ -5541,7 +5541,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,06"
+    "Score": "38.06"
   },
   {
     "N_Dossier": " 3219/2018",
@@ -5552,7 +5552,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "33,84"
+    "Score": "33.84"
   },
   {
     "N_Dossier": " 3223/2018",
@@ -5563,7 +5563,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "45,52"
+    "Score": "45.52"
   },
   {
     "N_Dossier": " 3225/2018",
@@ -5574,7 +5574,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "37,29"
+    "Score": "37.29"
   },
   {
     "N_Dossier": " 3232/2018",
@@ -5585,7 +5585,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,16"
+    "Score": "33.16"
   },
   {
     "N_Dossier": " 3234/2018",
@@ -5596,7 +5596,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "MPISI",
     "Choix_4": "MPTC",
-    "Score": "42,04"
+    "Score": "42.04"
   },
   {
     "N_Dossier": " 3243/2018",
@@ -5607,7 +5607,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "MPISI",
     "Choix_4": "MPTC",
-    "Score": "39,27"
+    "Score": "39.27"
   },
   {
     "N_Dossier": " 3247/2018",
@@ -5618,7 +5618,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRMNE",
     "Choix_4": "MRMNS",
-    "Score": "34,45"
+    "Score": "34.45"
   },
   {
     "N_Dossier": " 3267/2018",
@@ -5629,7 +5629,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "32,71"
+    "Score": "32.71"
   },
   {
     "N_Dossier": " 3280/2018",
@@ -5640,7 +5640,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPISI",
     "Choix_4": "MRMNS",
-    "Score": "41,07"
+    "Score": "41.07"
   },
   {
     "N_Dossier": " 3282/2018",
@@ -5651,7 +5651,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 3285/2018",
@@ -5662,7 +5662,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPSE",
     "Choix_4": "MPER",
-    "Score": "32,17"
+    "Score": "32.17"
   },
   {
     "N_Dossier": " 3290/2018",
@@ -5673,7 +5673,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRSPCM",
     "Choix_4": "MPEAPCI",
-    "Score": "31,88"
+    "Score": "31.88"
   },
   {
     "N_Dossier": " 3298/2018",
@@ -5684,7 +5684,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "35,04"
+    "Score": "35.04"
   },
   {
     "N_Dossier": " 3299/2018",
@@ -5695,7 +5695,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "MRPQ",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 3302/2018",
@@ -5706,7 +5706,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPTC",
     "Choix_4": "",
-    "Score": "33,33"
+    "Score": "33.33"
   },
   {
     "N_Dossier": " 3308/2018",
@@ -5717,7 +5717,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "37,44"
+    "Score": "37.44"
   },
   {
     "N_Dossier": " 3310/2018",
@@ -5728,7 +5728,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "39,42"
+    "Score": "39.42"
   },
   {
     "N_Dossier": " 3313/2018",
@@ -5739,7 +5739,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,46"
+    "Score": "38.46"
   },
   {
     "N_Dossier": " 3320/2018",
@@ -5750,7 +5750,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRPQ",
     "Choix_4": "MPER",
-    "Score": "36,23"
+    "Score": "36.23"
   },
   {
     "N_Dossier": " 3324/2018",
@@ -5761,7 +5761,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "50,69"
+    "Score": "50.69"
   },
   {
     "N_Dossier": " 3325/2018",
@@ -5772,7 +5772,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,42"
+    "Score": "34.42"
   },
   {
     "N_Dossier": " 3327/2018",
@@ -5783,7 +5783,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRMNS",
     "Choix_4": "MRMNE",
-    "Score": "48,06"
+    "Score": "48.06"
   },
   {
     "N_Dossier": " 3334/2018",
@@ -5794,7 +5794,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 3340/2018",
@@ -5805,7 +5805,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPSE",
     "Choix_4": "MRMNE",
-    "Score": "31,47"
+    "Score": "31.47"
   },
   {
     "N_Dossier": " 3349/2018",
@@ -5816,7 +5816,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MPER",
-    "Score": "31,19"
+    "Score": "31.19"
   },
   {
     "N_Dossier": " 3352/2018",
@@ -5827,7 +5827,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,90"
+    "Score": "36.90"
   },
   {
     "N_Dossier": " 3354/2018",
@@ -5838,7 +5838,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "35,90"
+    "Score": "35.90"
   },
   {
     "N_Dossier": " 3358/2018",
@@ -5849,7 +5849,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPSE",
     "Choix_4": "",
-    "Score": "36,86"
+    "Score": "36.86"
   },
   {
     "N_Dossier": " 3373/2018",
@@ -5860,7 +5860,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MPER",
     "Choix_4": "MRSPCM",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 3402/2018",
@@ -5871,7 +5871,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRSPCM",
     "Choix_4": "MRSRCO",
-    "Score": "43,78"
+    "Score": "43.78"
   },
   {
     "N_Dossier": " 3419/2018",
@@ -5882,7 +5882,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "MPER",
-    "Score": "39,15"
+    "Score": "39.15"
   },
   {
     "N_Dossier": " 3429/2018",
@@ -5893,7 +5893,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,51"
+    "Score": "34.51"
   },
   {
     "N_Dossier": " 3430/2018",
@@ -5915,7 +5915,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MRMNE",
-    "Score": "39,54"
+    "Score": "39.54"
   },
   {
     "N_Dossier": " 3440/2018",
@@ -5926,7 +5926,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "MRPQ",
-    "Score": "34,70"
+    "Score": "34.70"
   },
   {
     "N_Dossier": " 3447/2018",
@@ -5937,7 +5937,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,93"
+    "Score": "34.93"
   },
   {
     "N_Dossier": " 3454/2018",
@@ -5948,7 +5948,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "42,41"
+    "Score": "42.41"
   },
   {
     "N_Dossier": " 3463/2018",
@@ -5959,7 +5959,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "39,31"
+    "Score": "39.31"
   },
   {
     "N_Dossier": " 3465/2018",
@@ -5970,7 +5970,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "35,51"
+    "Score": "35.51"
   },
   {
     "N_Dossier": " 3468/2018",
@@ -5981,7 +5981,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "37,35"
+    "Score": "37.35"
   },
   {
     "N_Dossier": " 3475/2018",
@@ -5992,7 +5992,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "29,67"
+    "Score": "29.67"
   },
   {
     "N_Dossier": " 3483/2018",
@@ -6003,7 +6003,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPSE",
     "Choix_4": "MRMSRA",
-    "Score": "27,90"
+    "Score": "27.90"
   },
   {
     "N_Dossier": " 3490/2018",
@@ -6014,7 +6014,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPTC",
     "Choix_4": "MRPQ",
-    "Score": "29,95"
+    "Score": "29.95"
   },
   {
     "N_Dossier": " 3492/2018",
@@ -6025,7 +6025,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPSE",
     "Choix_4": "MRMNS",
-    "Score": "29,58"
+    "Score": "29.58"
   },
   {
     "N_Dossier": " 3493/2018",
@@ -6036,7 +6036,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "45,48"
+    "Score": "45.48"
   },
   {
     "N_Dossier": " 3497/2018",
@@ -6047,7 +6047,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "MRSPCM",
     "Choix_4": "MPER",
-    "Score": "34,54"
+    "Score": "34.54"
   },
   {
     "N_Dossier": " 3507/2018",
@@ -6058,7 +6058,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MRSRCO",
     "Choix_4": "MPEAPCI",
-    "Score": "27,23"
+    "Score": "27.23"
   },
   {
     "N_Dossier": " 3510/2018",
@@ -6069,7 +6069,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "40,42"
+    "Score": "40.42"
   },
   {
     "N_Dossier": " 3514/2018",
@@ -6080,7 +6080,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MRMNE",
     "Choix_4": "MPER",
-    "Score": "31,53"
+    "Score": "31.53"
   },
   {
     "N_Dossier": " 3532/2018",
@@ -6091,7 +6091,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "44,17"
+    "Score": "44.17"
   },
   {
     "N_Dossier": " 3549/2018",
@@ -6102,7 +6102,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MRMNE",
     "Choix_4": "MRPQ",
-    "Score": "36,72"
+    "Score": "36.72"
   },
   {
     "N_Dossier": " 3554/2018",
@@ -6113,7 +6113,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,23"
+    "Score": "35.23"
   },
   {
     "N_Dossier": " 3558/2018",
@@ -6124,7 +6124,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MPISI",
-    "Score": "36,06"
+    "Score": "36.06"
   },
   {
     "N_Dossier": " 3562/2018",
@@ -6135,7 +6135,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "43,75"
+    "Score": "43.75"
   },
   {
     "N_Dossier": " 3565/2018",
@@ -6146,7 +6146,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "MPER",
-    "Score": "32,20"
+    "Score": "32.20"
   },
   {
     "N_Dossier": " 3570/2018",
@@ -6157,7 +6157,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "36,79"
+    "Score": "36.79"
   },
   {
     "N_Dossier": " 3572/2018",
@@ -6168,7 +6168,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,85"
+    "Score": "39.85"
   },
   {
     "N_Dossier": " 3575/2018",
@@ -6179,7 +6179,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRMNE",
     "Choix_4": "MRSPCM",
-    "Score": "29,81"
+    "Score": "29.81"
   },
   {
     "N_Dossier": " 3583/2018",
@@ -6190,7 +6190,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "MRPQ",
-    "Score": "39,23"
+    "Score": "39.23"
   },
   {
     "N_Dossier": " 3590/2018",
@@ -6201,7 +6201,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "39,40"
+    "Score": "39.40"
   },
   {
     "N_Dossier": " 3600/2018",
@@ -6212,7 +6212,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,04"
+    "Score": "37.04"
   },
   {
     "N_Dossier": " 3605/2018",
@@ -6223,7 +6223,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRSPCM",
     "Choix_4": "MPER",
-    "Score": "31,58"
+    "Score": "31.58"
   },
   {
     "N_Dossier": " 3613/2018",
@@ -6234,7 +6234,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "MRSRCO",
     "Choix_4": "MRSPCM",
-    "Score": "27,87"
+    "Score": "27.87"
   },
   {
     "N_Dossier": " 3622/2018",
@@ -6245,7 +6245,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRSPCM",
     "Choix_4": "",
-    "Score": "36,67"
+    "Score": "36.67"
   },
   {
     "N_Dossier": " 3629/2018",
@@ -6256,7 +6256,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "31,30"
+    "Score": "31.30"
   },
   {
     "N_Dossier": " 3672/2018",
@@ -6267,7 +6267,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,43"
+    "Score": "33.43"
   },
   {
     "N_Dossier": " 3682/2018",
@@ -6278,7 +6278,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "30,76"
+    "Score": "30.76"
   },
   {
     "N_Dossier": " 3684/2018",
@@ -6289,7 +6289,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "MPTC",
-    "Score": "33,93"
+    "Score": "33.93"
   },
   {
     "N_Dossier": " 3690/2018",
@@ -6300,7 +6300,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "34,04"
+    "Score": "34.04"
   },
   {
     "N_Dossier": " 3694/2018",
@@ -6311,7 +6311,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,81"
+    "Score": "38.81"
   },
   {
     "N_Dossier": " 3703/2018",
@@ -6322,7 +6322,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,53"
+    "Score": "37.53"
   },
   {
     "N_Dossier": " 3710/2018",
@@ -6333,7 +6333,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "MPISI",
-    "Score": "32,87"
+    "Score": "32.87"
   },
   {
     "N_Dossier": " 3712/2018",
@@ -6344,7 +6344,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,28"
+    "Score": "38.28"
   },
   {
     "N_Dossier": " 3720/2018",
@@ -6355,7 +6355,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPISI",
     "Choix_4": "MPSE",
-    "Score": "43,30"
+    "Score": "43.30"
   },
   {
     "N_Dossier": " 3734/2018",
@@ -6366,7 +6366,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,68"
+    "Score": "34.68"
   },
   {
     "N_Dossier": " 3740/2018",
@@ -6377,7 +6377,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPSE",
     "Choix_4": "MRMNE",
-    "Score": "32,96"
+    "Score": "32.96"
   },
   {
     "N_Dossier": " 3744/2018",
@@ -6388,7 +6388,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "MRPQ",
     "Choix_4": "MRSPCM",
-    "Score": "37,84"
+    "Score": "37.84"
   },
   {
     "N_Dossier": " 3763/2018",
@@ -6399,7 +6399,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "46,61"
+    "Score": "46.61"
   },
   {
     "N_Dossier": " 3764/2018",
@@ -6410,7 +6410,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,08"
+    "Score": "31.08"
   },
   {
     "N_Dossier": " 3768/2018",
@@ -6421,7 +6421,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPSE",
     "Choix_4": "MRMNS",
-    "Score": "31,17"
+    "Score": "31.17"
   },
   {
     "N_Dossier": " 3773/2018",
@@ -6432,7 +6432,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "40,59"
+    "Score": "40.59"
   },
   {
     "N_Dossier": " 3777/2018",
@@ -6443,7 +6443,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "40,63"
+    "Score": "40.63"
   },
   {
     "N_Dossier": " 3778/2018",
@@ -6454,7 +6454,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "26,96"
+    "Score": "26.96"
   },
   {
     "N_Dossier": " 3780/2018",
@@ -6465,7 +6465,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,20"
+    "Score": "36.20"
   },
   {
     "N_Dossier": " 3788/2018",
@@ -6476,7 +6476,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "40,50"
+    "Score": "40.50"
   },
   {
     "N_Dossier": " 3793/2018",
@@ -6487,7 +6487,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MPER",
-    "Score": "32,47"
+    "Score": "32.47"
   },
   {
     "N_Dossier": " 3803/2018",
@@ -6498,7 +6498,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "",
-    "Score": "46,15"
+    "Score": "46.15"
   },
   {
     "N_Dossier": " 3827/2018",
@@ -6509,7 +6509,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRMNE",
     "Choix_4": "",
-    "Score": "34,97"
+    "Score": "34.97"
   },
   {
     "N_Dossier": " 3834/2018",
@@ -6520,7 +6520,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MPER",
     "Choix_4": "MPSE",
-    "Score": "27,27"
+    "Score": "27.27"
   },
   {
     "N_Dossier": " 3835/2018",
@@ -6531,7 +6531,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "MRMNS",
-    "Score": "40,17"
+    "Score": "40.17"
   },
   {
     "N_Dossier": " 3843/2018",
@@ -6542,7 +6542,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "39,33"
+    "Score": "39.33"
   },
   {
     "N_Dossier": " 3844/2018",
@@ -6553,7 +6553,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRMNE",
     "Choix_4": "MRMNS",
-    "Score": "41,98"
+    "Score": "41.98"
   },
   {
     "N_Dossier": " 3845/2018",
@@ -6564,7 +6564,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,57"
+    "Score": "37.57"
   },
   {
     "N_Dossier": " 3849/2018",
@@ -6575,7 +6575,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,09"
+    "Score": "35.09"
   },
   {
     "N_Dossier": " 3855/2018",
@@ -6586,7 +6586,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "31,96"
+    "Score": "31.96"
   },
   {
     "N_Dossier": " 3857/2018",
@@ -6597,7 +6597,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MRSRCO",
     "Choix_4": "MRSPCM",
-    "Score": "33,43"
+    "Score": "33.43"
   },
   {
     "N_Dossier": " 3884/2018",
@@ -6608,7 +6608,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRSRCO",
     "Choix_4": "MPER",
-    "Score": "37,06"
+    "Score": "37.06"
   },
   {
     "N_Dossier": " 3889/2018",
@@ -6619,7 +6619,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRSPCM",
     "Choix_4": "MPSE",
-    "Score": "35,10"
+    "Score": "35.10"
   },
   {
     "N_Dossier": " 3892/2018",
@@ -6630,7 +6630,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRMNS",
     "Choix_4": "MRPQ",
-    "Score": "39,40"
+    "Score": "39.40"
   },
   {
     "N_Dossier": " 3899/2018",
@@ -6641,7 +6641,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "MRMNS",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 3903/2018",
@@ -6652,7 +6652,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "MPISI",
-    "Score": "27,88"
+    "Score": "27.88"
   },
   {
     "N_Dossier": " 3908/2018",
@@ -6663,7 +6663,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRPQ",
     "Choix_4": "",
-    "Score": "37,02"
+    "Score": "37.02"
   },
   {
     "N_Dossier": " 3922/2018",
@@ -6674,7 +6674,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,59"
+    "Score": "33.59"
   },
   {
     "N_Dossier": " 3930/2018",
@@ -6685,7 +6685,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "52,55"
+    "Score": "52.55"
   },
   {
     "N_Dossier": " 3942/2018",
@@ -6696,7 +6696,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRMNS",
     "Choix_4": "MPTC",
-    "Score": "36,37"
+    "Score": "36.37"
   },
   {
     "N_Dossier": " 3945/2018",
@@ -6707,7 +6707,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "28,05"
+    "Score": "28.05"
   },
   {
     "N_Dossier": " 3950/2018",
@@ -6718,7 +6718,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,15"
+    "Score": "33.15"
   },
   {
     "N_Dossier": " 3952/2018",
@@ -6729,7 +6729,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MRSPCM",
     "Choix_4": "MRSRCO",
-    "Score": "28,95"
+    "Score": "28.95"
   },
   {
     "N_Dossier": " 3955/2018",
@@ -6740,7 +6740,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRPQ",
     "Choix_4": "MRMNS",
-    "Score": "35,43"
+    "Score": "35.43"
   },
   {
     "N_Dossier": " 3969/2018",
@@ -6751,7 +6751,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRPQ",
     "Choix_4": "MRSPCM",
-    "Score": "44,20"
+    "Score": "44.20"
   },
   {
     "N_Dossier": " 3974/2018",
@@ -6762,7 +6762,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,94"
+    "Score": "31.94"
   },
   {
     "N_Dossier": " 3979/2018",
@@ -6773,7 +6773,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,76"
+    "Score": "37.76"
   },
   {
     "N_Dossier": " 3980/2018",
@@ -6784,7 +6784,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,12"
+    "Score": "38.12"
   },
   {
     "N_Dossier": " 3984/2018",
@@ -6795,7 +6795,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPSE",
     "Choix_4": "MRMSRA",
-    "Score": "32,51"
+    "Score": "32.51"
   },
   {
     "N_Dossier": " 3988/2018",
@@ -6817,7 +6817,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,71"
+    "Score": "34.71"
   },
   {
     "N_Dossier": " 4018/2018",
@@ -6828,7 +6828,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "40,16"
+    "Score": "40.16"
   },
   {
     "N_Dossier": " 4022/2018",
@@ -6839,7 +6839,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,13"
+    "Score": "36.13"
   },
   {
     "N_Dossier": " 4023/2018",
@@ -6850,7 +6850,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "39,33"
+    "Score": "39.33"
   },
   {
     "N_Dossier": " 4027/2018",
@@ -6861,7 +6861,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MRMSRA",
     "Choix_4": "MPTC",
-    "Score": "36,20"
+    "Score": "36.20"
   },
   {
     "N_Dossier": " 4034/2018",
@@ -6872,7 +6872,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "28,92"
+    "Score": "28.92"
   },
   {
     "N_Dossier": " 4038/2018",
@@ -6883,7 +6883,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,16"
+    "Score": "37.16"
   },
   {
     "N_Dossier": " 4048/2018",
@@ -6894,7 +6894,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPSE",
     "Choix_4": "",
-    "Score": "23,50"
+    "Score": "23.50"
   },
   {
     "N_Dossier": " 4055/2018",
@@ -6905,7 +6905,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,94"
+    "Score": "36.94"
   },
   {
     "N_Dossier": " 4079/2018",
@@ -6916,7 +6916,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRMNE",
     "Choix_4": "MPEAPCI",
-    "Score": "19,09"
+    "Score": "19.09"
   },
   {
     "N_Dossier": " 4097/2018",
@@ -6927,7 +6927,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "32,40"
+    "Score": "32.40"
   },
   {
     "N_Dossier": " 4098/2018",
@@ -6949,7 +6949,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MPTC",
-    "Score": "36,86"
+    "Score": "36.86"
   },
   {
     "N_Dossier": " 4113/2018",
@@ -6960,7 +6960,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPSE",
     "Choix_4": "",
-    "Score": "34,40"
+    "Score": "34.40"
   },
   {
     "N_Dossier": " 4117/2018",
@@ -6971,7 +6971,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "MPTC",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 4118/2018",
@@ -6982,7 +6982,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "MRMSRA",
     "Choix_4": "MRMNS",
-    "Score": "22,00"
+    "Score": "22.00"
   },
   {
     "N_Dossier": " 4124/2018",
@@ -6993,7 +6993,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MRSRCO",
     "Choix_4": "MRPQ",
-    "Score": "31,60"
+    "Score": "31.60"
   },
   {
     "N_Dossier": " 4132/2018",
@@ -7004,7 +7004,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "MRSPCM",
-    "Score": "41,95"
+    "Score": "41.95"
   },
   {
     "N_Dossier": " 4139/2018",
@@ -7015,7 +7015,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,36"
+    "Score": "39.36"
   },
   {
     "N_Dossier": " 4145/2018",
@@ -7026,7 +7026,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,60"
+    "Score": "34.60"
   },
   {
     "N_Dossier": " 4152/2018",
@@ -7037,7 +7037,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,08"
+    "Score": "34.08"
   },
   {
     "N_Dossier": " 4174/2018",
@@ -7048,7 +7048,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,70"
+    "Score": "39.70"
   },
   {
     "N_Dossier": " 4188/2018",
@@ -7059,7 +7059,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MRMNE",
     "Choix_4": "MRMNS",
-    "Score": "28,60"
+    "Score": "28.60"
   },
   {
     "N_Dossier": " 4193/2018",
@@ -7070,7 +7070,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "30,84"
+    "Score": "30.84"
   },
   {
     "N_Dossier": " 4198/2018",
@@ -7081,7 +7081,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,83"
+    "Score": "36.83"
   },
   {
     "N_Dossier": " 4209/2018",
@@ -7092,7 +7092,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRPQ",
     "Choix_4": "MRMNS",
-    "Score": "30,81"
+    "Score": "30.81"
   },
   {
     "N_Dossier": " 4217/2018",
@@ -7103,7 +7103,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,48"
+    "Score": "38.48"
   },
   {
     "N_Dossier": " 4220/2018",
@@ -7114,7 +7114,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRSPCM",
     "Choix_4": "",
-    "Score": "32,60"
+    "Score": "32.60"
   },
   {
     "N_Dossier": " 4224/2018",
@@ -7125,7 +7125,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,42"
+    "Score": "39.42"
   },
   {
     "N_Dossier": " 4233/2018",
@@ -7136,7 +7136,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "29,47"
+    "Score": "29.47"
   },
   {
     "N_Dossier": " 4238/2018",
@@ -7147,7 +7147,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,16"
+    "Score": "39.16"
   },
   {
     "N_Dossier": " 4243/2018",
@@ -7158,7 +7158,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "41,77"
+    "Score": "41.77"
   },
   {
     "N_Dossier": " 4247/2018",
@@ -7169,7 +7169,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "MPER",
-    "Score": "38,99"
+    "Score": "38.99"
   },
   {
     "N_Dossier": " 4257/2018",
@@ -7180,7 +7180,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,87"
+    "Score": "32.87"
   },
   {
     "N_Dossier": " 4258/2018",
@@ -7191,7 +7191,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,36"
+    "Score": "32.36"
   },
   {
     "N_Dossier": " 4260/2018",
@@ -7202,7 +7202,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "43,30"
+    "Score": "43.30"
   },
   {
     "N_Dossier": " 4278/2018",
@@ -7213,7 +7213,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRSPCM",
     "Choix_4": "",
-    "Score": "41,94"
+    "Score": "41.94"
   },
   {
     "N_Dossier": " 4303/2018",
@@ -7224,7 +7224,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "41,51"
+    "Score": "41.51"
   },
   {
     "N_Dossier": " 4304/2018",
@@ -7235,7 +7235,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPSE",
     "Choix_4": "MRMSRA",
-    "Score": "35,32"
+    "Score": "35.32"
   },
   {
     "N_Dossier": " 4308/2018",
@@ -7246,7 +7246,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "47,11"
+    "Score": "47.11"
   },
   {
     "N_Dossier": " 4313/2018",
@@ -7257,7 +7257,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MRPQ",
     "Choix_4": "MPSE",
-    "Score": "38,00"
+    "Score": "38.00"
   },
   {
     "N_Dossier": " 4318/2018",
@@ -7268,7 +7268,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,59"
+    "Score": "36.59"
   },
   {
     "N_Dossier": " 4324/2018",
@@ -7279,7 +7279,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,03"
+    "Score": "38.03"
   },
   {
     "N_Dossier": " 4330/2018",
@@ -7290,7 +7290,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,79"
+    "Score": "32.79"
   },
   {
     "N_Dossier": " 4338/2018",
@@ -7301,7 +7301,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MPER",
     "Choix_4": "MPTC",
-    "Score": "32,47"
+    "Score": "32.47"
   },
   {
     "N_Dossier": " 4349/2018",
@@ -7312,7 +7312,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "39,72"
+    "Score": "39.72"
   },
   {
     "N_Dossier": " 4365/2018",
@@ -7323,7 +7323,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "30,16"
+    "Score": "30.16"
   },
   {
     "N_Dossier": " 4372/2018",
@@ -7334,7 +7334,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "28,87"
+    "Score": "28.87"
   },
   {
     "N_Dossier": " 4378/2018",
@@ -7345,7 +7345,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRSPCM",
     "Choix_4": "",
-    "Score": "37,57"
+    "Score": "37.57"
   },
   {
     "N_Dossier": " 4380/2018",
@@ -7356,7 +7356,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,12"
+    "Score": "31.12"
   },
   {
     "N_Dossier": " 4393/2018",
@@ -7367,7 +7367,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MRPQ",
-    "Score": "39,79"
+    "Score": "39.79"
   },
   {
     "N_Dossier": " 4394/2018",
@@ -7378,7 +7378,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPSE",
     "Choix_4": "",
-    "Score": "28,97"
+    "Score": "28.97"
   },
   {
     "N_Dossier": " 4399/2018",
@@ -7389,7 +7389,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "40,65"
+    "Score": "40.65"
   },
   {
     "N_Dossier": " 4403/2018",
@@ -7400,7 +7400,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,63"
+    "Score": "33.63"
   },
   {
     "N_Dossier": " 4404/2018",
@@ -7411,7 +7411,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "32,19"
+    "Score": "32.19"
   },
   {
     "N_Dossier": " 4409/2018",
@@ -7422,7 +7422,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MPISI",
-    "Score": "29,69"
+    "Score": "29.69"
   },
   {
     "N_Dossier": " 4413/2018",
@@ -7433,7 +7433,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MPTC",
-    "Score": "31,63"
+    "Score": "31.63"
   },
   {
     "N_Dossier": " 4414/2018",
@@ -7444,7 +7444,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "40,39"
+    "Score": "40.39"
   },
   {
     "N_Dossier": " 4418/2018",
@@ -7455,7 +7455,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "40,39"
+    "Score": "40.39"
   },
   {
     "N_Dossier": " 4425/2018",
@@ -7466,7 +7466,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "39,57"
+    "Score": "39.57"
   },
   {
     "N_Dossier": " 4429/2018",
@@ -7477,7 +7477,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,90"
+    "Score": "31.90"
   },
   {
     "N_Dossier": " 4437/2018",
@@ -7488,7 +7488,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,46"
+    "Score": "34.46"
   },
   {
     "N_Dossier": " 4438/2018",
@@ -7499,7 +7499,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 4444/2018",
@@ -7510,7 +7510,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 4448/2018",
@@ -7521,7 +7521,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "34,03"
+    "Score": "34.03"
   },
   {
     "N_Dossier": " 4452/2018",
@@ -7532,7 +7532,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MRMNS",
-    "Score": "32,34"
+    "Score": "32.34"
   },
   {
     "N_Dossier": " 4457/2018",
@@ -7543,7 +7543,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "39,68"
+    "Score": "39.68"
   },
   {
     "N_Dossier": " 4462/2018",
@@ -7554,7 +7554,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MRPQ",
-    "Score": "39,59"
+    "Score": "39.59"
   },
   {
     "N_Dossier": " 4464/2018",
@@ -7565,7 +7565,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,84"
+    "Score": "38.84"
   },
   {
     "N_Dossier": " 4467/2018",
@@ -7576,7 +7576,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRMNS",
     "Choix_4": "MRPQ",
-    "Score": "33,18"
+    "Score": "33.18"
   },
   {
     "N_Dossier": " 4479/2018",
@@ -7587,7 +7587,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "MRMSRA",
     "Choix_4": "MPISI",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 4488/2018",
@@ -7598,7 +7598,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MRPQ",
-    "Score": "50,30"
+    "Score": "50.30"
   },
   {
     "N_Dossier": " 4489/2018",
@@ -7609,7 +7609,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,97"
+    "Score": "33.97"
   },
   {
     "N_Dossier": " 4492/2018",
@@ -7620,7 +7620,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPER",
     "Choix_4": "",
-    "Score": "34,63"
+    "Score": "34.63"
   },
   {
     "N_Dossier": " 4493/2018",
@@ -7631,7 +7631,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPISI",
     "Choix_4": "MPTC",
-    "Score": "37,57"
+    "Score": "37.57"
   },
   {
     "N_Dossier": " 4494/2018",
@@ -7642,7 +7642,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MPTC",
-    "Score": "34,86"
+    "Score": "34.86"
   },
   {
     "N_Dossier": " 4498/2018",
@@ -7653,7 +7653,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "30,99"
+    "Score": "30.99"
   },
   {
     "N_Dossier": " 4503/2018",
@@ -7664,7 +7664,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "MPTC",
-    "Score": "39,32"
+    "Score": "39.32"
   },
   {
     "N_Dossier": " 4510/2018",
@@ -7675,7 +7675,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "27,14"
+    "Score": "27.14"
   },
   {
     "N_Dossier": " 4517/2018",
@@ -7686,7 +7686,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRSPCM",
     "Choix_4": "",
-    "Score": "47,89"
+    "Score": "47.89"
   },
   {
     "N_Dossier": " 4522/2018",
@@ -7697,7 +7697,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "40,33"
+    "Score": "40.33"
   },
   {
     "N_Dossier": " 4527/2018",
@@ -7708,7 +7708,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,60"
+    "Score": "36.60"
   },
   {
     "N_Dossier": " 4529/2018",
@@ -7719,7 +7719,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MRMNS",
-    "Score": "39,56"
+    "Score": "39.56"
   },
   {
     "N_Dossier": " 4533/2018",
@@ -7730,7 +7730,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "32,42"
+    "Score": "32.42"
   },
   {
     "N_Dossier": " 4538/2018",
@@ -7741,7 +7741,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "39,87"
+    "Score": "39.87"
   },
   {
     "N_Dossier": " 4543/2018",
@@ -7752,7 +7752,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "MPTC",
-    "Score": "42,44"
+    "Score": "42.44"
   },
   {
     "N_Dossier": " 4545/2018",
@@ -7763,7 +7763,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "40,45"
+    "Score": "40.45"
   },
   {
     "N_Dossier": " 4547/2018",
@@ -7774,7 +7774,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "",
-    "Score": "36,75"
+    "Score": "36.75"
   },
   {
     "N_Dossier": " 4550/2018",
@@ -7785,7 +7785,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "38,02"
+    "Score": "38.02"
   },
   {
     "N_Dossier": " 4553/2018",
@@ -7796,7 +7796,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "39,66"
+    "Score": "39.66"
   },
   {
     "N_Dossier": " 4558/2018",
@@ -7807,7 +7807,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,51"
+    "Score": "36.51"
   },
   {
     "N_Dossier": " 4562/2018",
@@ -7818,7 +7818,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,63"
+    "Score": "38.63"
   },
   {
     "N_Dossier": " 4569/2018",
@@ -7829,7 +7829,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "28,59"
+    "Score": "28.59"
   },
   {
     "N_Dossier": " 4570/2018",
@@ -7840,7 +7840,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "30,00"
+    "Score": "30.00"
   },
   {
     "N_Dossier": " 4585/2018",
@@ -7851,7 +7851,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "35,12"
+    "Score": "35.12"
   },
   {
     "N_Dossier": " 4590/2018",
@@ -7862,7 +7862,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,86"
+    "Score": "36.86"
   },
   {
     "N_Dossier": " 4607/2018",
@@ -7873,7 +7873,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "MPER",
-    "Score": "41,53"
+    "Score": "41.53"
   },
   {
     "N_Dossier": " 4609/2018",
@@ -7884,7 +7884,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "42,64"
+    "Score": "42.64"
   },
   {
     "N_Dossier": " 4615/2018",
@@ -7895,7 +7895,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,56"
+    "Score": "36.56"
   },
   {
     "N_Dossier": " 4619/2018",
@@ -7906,7 +7906,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,77"
+    "Score": "31.77"
   },
   {
     "N_Dossier": " 4627/2018",
@@ -7917,7 +7917,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRSPCM",
     "Choix_4": "",
-    "Score": "35,05"
+    "Score": "35.05"
   },
   {
     "N_Dossier": " 4638/2018",
@@ -7928,7 +7928,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,12"
+    "Score": "39.12"
   },
   {
     "N_Dossier": " 4648/2018",
@@ -7939,7 +7939,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRMF",
     "Choix_4": "MRMA",
-    "Score": "32,12"
+    "Score": "32.12"
   },
   {
     "N_Dossier": " 4658/2018",
@@ -7950,7 +7950,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,64"
+    "Score": "34.64"
   },
   {
     "N_Dossier": " 4659/2018",
@@ -7961,7 +7961,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,92"
+    "Score": "35.92"
   },
   {
     "N_Dossier": " 4663/2018",
@@ -7972,7 +7972,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,82"
+    "Score": "38.82"
   },
   {
     "N_Dossier": " 4667/2018",
@@ -7983,7 +7983,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,56"
+    "Score": "37.56"
   },
   {
     "N_Dossier": " 4670/2018",
@@ -7994,7 +7994,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,36"
+    "Score": "36.36"
   },
   {
     "N_Dossier": " 4683/2018",
@@ -8005,7 +8005,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MRPQ",
-    "Score": "40,06"
+    "Score": "40.06"
   },
   {
     "N_Dossier": " 4695/2018",
@@ -8016,7 +8016,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,55"
+    "Score": "32.55"
   },
   {
     "N_Dossier": " 4699/2018",
@@ -8027,7 +8027,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,87"
+    "Score": "36.87"
   },
   {
     "N_Dossier": " 4713/2018",
@@ -8038,7 +8038,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "35,93"
+    "Score": "35.93"
   },
   {
     "N_Dossier": " 4714/2018",
@@ -8049,7 +8049,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "43,90"
+    "Score": "43.90"
   },
   {
     "N_Dossier": " 4719/2018",
@@ -8060,7 +8060,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "MPSE",
-    "Score": "34,27"
+    "Score": "34.27"
   },
   {
     "N_Dossier": " 4723/2018",
@@ -8071,7 +8071,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "42,36"
+    "Score": "42.36"
   },
   {
     "N_Dossier": " 4725/2018",
@@ -8082,7 +8082,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,72"
+    "Score": "38.72"
   },
   {
     "N_Dossier": " 4729/2018",
@@ -8093,7 +8093,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,67"
+    "Score": "39.67"
   },
   {
     "N_Dossier": " 4732/2018",
@@ -8104,7 +8104,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,07"
+    "Score": "35.07"
   },
   {
     "N_Dossier": " 4739/2018",
@@ -8115,7 +8115,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "44,00"
+    "Score": "44.00"
   },
   {
     "N_Dossier": " 4753/2018",
@@ -8126,7 +8126,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,04"
+    "Score": "37.04"
   },
   {
     "N_Dossier": " 4757/2018",
@@ -8137,7 +8137,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,30"
+    "Score": "37.30"
   },
   {
     "N_Dossier": " 4760/2018",
@@ -8148,7 +8148,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPSE",
     "Choix_4": "MRMSRA",
-    "Score": "33,13"
+    "Score": "33.13"
   },
   {
     "N_Dossier": " 4768/2018",
@@ -8159,7 +8159,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,08"
+    "Score": "33.08"
   },
   {
     "N_Dossier": " 4772/2018",
@@ -8170,7 +8170,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,80"
+    "Score": "36.80"
   },
   {
     "N_Dossier": " 4777/2018",
@@ -8181,7 +8181,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRMNE",
     "Choix_4": "MPTC",
-    "Score": "31,43"
+    "Score": "31.43"
   },
   {
     "N_Dossier": " 4782/2018",
@@ -8192,7 +8192,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,77"
+    "Score": "37.77"
   },
   {
     "N_Dossier": " 4783/2018",
@@ -8203,7 +8203,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,77"
+    "Score": "37.77"
   },
   {
     "N_Dossier": " 4784/2018",
@@ -8214,7 +8214,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MRMNS",
     "Choix_4": "MRMNE",
-    "Score": "31,00"
+    "Score": "31.00"
   },
   {
     "N_Dossier": " 4789/2018",
@@ -8225,7 +8225,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,51"
+    "Score": "35.51"
   },
   {
     "N_Dossier": " 4792/2018",
@@ -8236,7 +8236,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MPSE",
     "Choix_4": "",
-    "Score": "41,65"
+    "Score": "41.65"
   },
   {
     "N_Dossier": " 4803/2018",
@@ -8247,7 +8247,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRSPCM",
     "Choix_4": "",
-    "Score": "42,57"
+    "Score": "42.57"
   },
   {
     "N_Dossier": " 4810/2018",
@@ -8258,7 +8258,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "40,09"
+    "Score": "40.09"
   },
   {
     "N_Dossier": " 4812/2018",
@@ -8269,7 +8269,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "31,29"
+    "Score": "31.29"
   },
   {
     "N_Dossier": " 4814/2018",
@@ -8280,7 +8280,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "42,69"
+    "Score": "42.69"
   },
   {
     "N_Dossier": " 4817/2018",
@@ -8291,7 +8291,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRPQ",
     "Choix_4": "MPER",
-    "Score": "37,08"
+    "Score": "37.08"
   },
   {
     "N_Dossier": " 4822/2018",
@@ -8302,7 +8302,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "MRSPCM",
-    "Score": "44,32"
+    "Score": "44.32"
   },
   {
     "N_Dossier": " 4828/2018",
@@ -8313,7 +8313,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "30,75"
+    "Score": "30.75"
   },
   {
     "N_Dossier": " 4830/2018",
@@ -8324,7 +8324,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "45,75"
+    "Score": "45.75"
   },
   {
     "N_Dossier": " 4850/2018",
@@ -8335,7 +8335,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,52"
+    "Score": "35.52"
   },
   {
     "N_Dossier": " 4867/2018",
@@ -8346,7 +8346,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "44,53"
+    "Score": "44.53"
   },
   {
     "N_Dossier": " 4873/2018",
@@ -8357,7 +8357,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPER",
     "Choix_4": "MRMNE",
-    "Score": "31,26"
+    "Score": "31.26"
   },
   {
     "N_Dossier": " 4883/2018",
@@ -8368,7 +8368,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MPER",
-    "Score": "30,07"
+    "Score": "30.07"
   },
   {
     "N_Dossier": " 4888/2018",
@@ -8379,7 +8379,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,71"
+    "Score": "38.71"
   },
   {
     "N_Dossier": " 4905/2018",
@@ -8390,7 +8390,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "41,56"
+    "Score": "41.56"
   },
   {
     "N_Dossier": " 4912/2018",
@@ -8401,7 +8401,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,13"
+    "Score": "35.13"
   },
   {
     "N_Dossier": " 4917/2018",
@@ -8412,7 +8412,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "32,05"
+    "Score": "32.05"
   },
   {
     "N_Dossier": " 4919/2018",
@@ -8423,7 +8423,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MPER",
-    "Score": "29,64"
+    "Score": "29.64"
   },
   {
     "N_Dossier": " 4925/2018",
@@ -8434,7 +8434,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPER",
     "Choix_4": "MPTC",
-    "Score": "34,98"
+    "Score": "34.98"
   },
   {
     "N_Dossier": " 4929/2018",
@@ -8445,7 +8445,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MRMSRA",
     "Choix_4": "MPTC",
-    "Score": "30,80"
+    "Score": "30.80"
   },
   {
     "N_Dossier": " 4934/2018",
@@ -8456,7 +8456,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "28,23"
+    "Score": "28.23"
   },
   {
     "N_Dossier": " 4937/2018",
@@ -8467,7 +8467,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "MPISI",
-    "Score": "35,83"
+    "Score": "35.83"
   },
   {
     "N_Dossier": " 4942/2018",
@@ -8478,7 +8478,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "42,76"
+    "Score": "42.76"
   },
   {
     "N_Dossier": " 4945/2018",
@@ -8489,7 +8489,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "38,76"
+    "Score": "38.76"
   },
   {
     "N_Dossier": " 4950/2018",
@@ -8500,7 +8500,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "MPER",
-    "Score": "32,50"
+    "Score": "32.50"
   },
   {
     "N_Dossier": " 4953/2018",
@@ -8511,7 +8511,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "36,09"
+    "Score": "36.09"
   },
   {
     "N_Dossier": " 4963/2018",
@@ -8522,7 +8522,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,90"
+    "Score": "37.90"
   },
   {
     "N_Dossier": " 4972/2018",
@@ -8533,7 +8533,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRSPCM",
     "Choix_4": "",
-    "Score": "37,09"
+    "Score": "37.09"
   },
   {
     "N_Dossier": " 4975/2018",
@@ -8544,7 +8544,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPISI",
     "Choix_4": "MRMSRA",
-    "Score": "37,18"
+    "Score": "37.18"
   },
   {
     "N_Dossier": " 4979/2018",
@@ -8555,7 +8555,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,44"
+    "Score": "34.44"
   },
   {
     "N_Dossier": " 4995/2018",
@@ -8566,7 +8566,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRPQ",
     "Choix_4": "",
-    "Score": "38,56"
+    "Score": "38.56"
   },
   {
     "N_Dossier": " 5000/2018",
@@ -8577,7 +8577,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRSPCM",
     "Choix_4": "",
-    "Score": "34,36"
+    "Score": "34.36"
   },
   {
     "N_Dossier": " 5004/2018",
@@ -8588,7 +8588,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "32,30"
+    "Score": "32.30"
   },
   {
     "N_Dossier": " 5010/2018",
@@ -8599,7 +8599,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "40,64"
+    "Score": "40.64"
   },
   {
     "N_Dossier": " 5012/2018",
@@ -8610,7 +8610,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPSE",
     "Choix_4": "MRMNE",
-    "Score": "29,63"
+    "Score": "29.63"
   },
   {
     "N_Dossier": " 5027/2018",
@@ -8621,7 +8621,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "43,21"
+    "Score": "43.21"
   },
   {
     "N_Dossier": " 5029/2018",
@@ -8632,7 +8632,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPISI",
     "Choix_4": "",
-    "Score": "36,25"
+    "Score": "36.25"
   },
   {
     "N_Dossier": " 5032/2018",
@@ -8643,7 +8643,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,55"
+    "Score": "31.55"
   },
   {
     "N_Dossier": " 5042/2018",
@@ -8654,7 +8654,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPISI",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 5050/2018",
@@ -8665,7 +8665,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "29,72"
+    "Score": "29.72"
   },
   {
     "N_Dossier": " 5058/2018",
@@ -8676,7 +8676,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "42,07"
+    "Score": "42.07"
   },
   {
     "N_Dossier": " 5067/2018",
@@ -8687,7 +8687,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRPQ",
     "Choix_4": "MPTC",
-    "Score": "30,63"
+    "Score": "30.63"
   },
   {
     "N_Dossier": " 5069/2018",
@@ -8698,7 +8698,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "38,92"
+    "Score": "38.92"
   },
   {
     "N_Dossier": " 5075/2018",
@@ -8709,7 +8709,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,30"
+    "Score": "35.30"
   },
   {
     "N_Dossier": " 5085/2018",
@@ -8720,7 +8720,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MRPQ",
-    "Score": "27,94"
+    "Score": "27.94"
   },
   {
     "N_Dossier": " 5092/2018",
@@ -8731,7 +8731,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRMNS",
     "Choix_4": "MRPQ",
-    "Score": "41,01"
+    "Score": "41.01"
   },
   {
     "N_Dossier": " 5100/2018",
@@ -8742,7 +8742,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "",
-    "Score": "36,11"
+    "Score": "36.11"
   },
   {
     "N_Dossier": " 5104/2018",
@@ -8753,7 +8753,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "33,93"
+    "Score": "33.93"
   },
   {
     "N_Dossier": " 5110/2018",
@@ -8764,7 +8764,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,37"
+    "Score": "34.37"
   },
   {
     "N_Dossier": " 5115/2018",
@@ -8775,7 +8775,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,41"
+    "Score": "36.41"
   },
   {
     "N_Dossier": " 5128/2018",
@@ -8786,7 +8786,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "MPTC",
-    "Score": "31,48"
+    "Score": "31.48"
   },
   {
     "N_Dossier": " 5132/2018",
@@ -8797,7 +8797,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "MPER",
-    "Score": "38,17"
+    "Score": "38.17"
   },
   {
     "N_Dossier": " 5145/2018",
@@ -8808,7 +8808,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,09"
+    "Score": "35.09"
   },
   {
     "N_Dossier": " 5150/2018",
@@ -8819,7 +8819,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "41,97"
+    "Score": "41.97"
   },
   {
     "N_Dossier": " 5154/2018",
@@ -8830,7 +8830,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,15"
+    "Score": "34.15"
   },
   {
     "N_Dossier": " 5159/2018",
@@ -8841,7 +8841,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPER",
     "Choix_4": "MRPQ",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 5164/2018",
@@ -8852,7 +8852,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MRPQ",
-    "Score": "37,62"
+    "Score": "37.62"
   },
   {
     "N_Dossier": " 5179/2018",
@@ -8863,7 +8863,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "MRPQ",
-    "Score": "31,13"
+    "Score": "31.13"
   },
   {
     "N_Dossier": " 5180/2018",
@@ -8874,7 +8874,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "30,65"
+    "Score": "30.65"
   },
   {
     "N_Dossier": " 5188/2018",
@@ -8885,7 +8885,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MRMNE",
-    "Score": "41,78"
+    "Score": "41.78"
   },
   {
     "N_Dossier": " 5193/2018",
@@ -8896,7 +8896,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "37,63"
+    "Score": "37.63"
   },
   {
     "N_Dossier": " 5198/2018",
@@ -8907,7 +8907,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRMNS",
     "Choix_4": "MPSE",
-    "Score": "36,10"
+    "Score": "36.10"
   },
   {
     "N_Dossier": " 5203/2018",
@@ -8918,7 +8918,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRMNS",
     "Choix_4": "MPER",
-    "Score": "31,19"
+    "Score": "31.19"
   },
   {
     "N_Dossier": " 5210/2018",
@@ -8929,7 +8929,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "40,76"
+    "Score": "40.76"
   },
   {
     "N_Dossier": " 5215/2018",
@@ -8940,7 +8940,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MRMF",
     "Choix_4": "MRMA",
-    "Score": "30,39"
+    "Score": "30.39"
   },
   {
     "N_Dossier": " 5218/2018",
@@ -8951,7 +8951,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "30,71"
+    "Score": "30.71"
   },
   {
     "N_Dossier": " 5220/2018",
@@ -8962,7 +8962,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRPQ",
     "Choix_4": "MRMNS",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 5227/2018",
@@ -8973,7 +8973,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MRMF",
     "Choix_4": "MRMA",
-    "Score": "38,13"
+    "Score": "38.13"
   },
   {
     "N_Dossier": " 5253/2018",
@@ -8984,7 +8984,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "33,58"
+    "Score": "33.58"
   },
   {
     "N_Dossier": " 5257/2018",
@@ -8995,7 +8995,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,89"
+    "Score": "34.89"
   },
   {
     "N_Dossier": " 5267/2018",
@@ -9006,7 +9006,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "41,44"
+    "Score": "41.44"
   },
   {
     "N_Dossier": " 5274/2018",
@@ -9017,7 +9017,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRSPCM",
     "Choix_4": "MPER",
-    "Score": "32,32"
+    "Score": "32.32"
   },
   {
     "N_Dossier": " 5279/2018",
@@ -9028,7 +9028,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "MPTC",
-    "Score": "46,28"
+    "Score": "46.28"
   },
   {
     "N_Dossier": " 5283/2018",
@@ -9039,7 +9039,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRMNE",
     "Choix_4": "",
-    "Score": "46,95"
+    "Score": "46.95"
   },
   {
     "N_Dossier": " 5310/2018",
@@ -9050,7 +9050,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,64"
+    "Score": "32.64"
   },
   {
     "N_Dossier": " 5319/2018",
@@ -9061,7 +9061,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "MRMNS",
-    "Score": "35,53"
+    "Score": "35.53"
   },
   {
     "N_Dossier": " 5328/2018",
@@ -9072,7 +9072,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 5334/2018",
@@ -9083,7 +9083,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,52"
+    "Score": "35.52"
   },
   {
     "N_Dossier": " 5335/2018",
@@ -9094,7 +9094,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,78"
+    "Score": "31.78"
   },
   {
     "N_Dossier": " 5336/2018",
@@ -9105,7 +9105,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 5338/2018",
@@ -9116,7 +9116,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "",
-    "Score": "37,44"
+    "Score": "37.44"
   },
   {
     "N_Dossier": " 5342/2018",
@@ -9127,7 +9127,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MRPQ",
-    "Score": "32,44"
+    "Score": "32.44"
   },
   {
     "N_Dossier": " 5355/2018",
@@ -9138,7 +9138,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "44,70"
+    "Score": "44.70"
   },
   {
     "N_Dossier": " 5358/2018",
@@ -9149,7 +9149,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MPER",
     "Choix_4": "MRMNE",
-    "Score": "34,81"
+    "Score": "34.81"
   },
   {
     "N_Dossier": " 5370/2018",
@@ -9160,7 +9160,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPISI",
     "Choix_4": "",
-    "Score": "38,10"
+    "Score": "38.10"
   },
   {
     "N_Dossier": " 5380/2018",
@@ -9171,7 +9171,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRMSRA",
     "Choix_4": "MPSE",
-    "Score": "34,34"
+    "Score": "34.34"
   },
   {
     "N_Dossier": " 5402/2018",
@@ -9182,7 +9182,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MRMSRA",
     "Choix_4": "MPSE",
-    "Score": "33,28"
+    "Score": "33.28"
   },
   {
     "N_Dossier": " 5410/2018",
@@ -9193,7 +9193,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "30,92"
+    "Score": "30.92"
   },
   {
     "N_Dossier": " 5429/2018",
@@ -9204,7 +9204,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "28,95"
+    "Score": "28.95"
   },
   {
     "N_Dossier": " 5434/2018",
@@ -9215,7 +9215,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "30,80"
+    "Score": "30.80"
   },
   {
     "N_Dossier": " 5443/2018",
@@ -9226,7 +9226,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "MRMSRA",
     "Choix_4": "MPTC",
-    "Score": "28,73"
+    "Score": "28.73"
   },
   {
     "N_Dossier": " 5450/2018",
@@ -9237,7 +9237,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MPER",
     "Choix_4": "MPSE",
-    "Score": "35,39"
+    "Score": "35.39"
   },
   {
     "N_Dossier": " 5458/2018",
@@ -9248,7 +9248,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "41,08"
+    "Score": "41.08"
   },
   {
     "N_Dossier": " 5467/2018",
@@ -9259,7 +9259,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "40,55"
+    "Score": "40.55"
   },
   {
     "N_Dossier": " 5477/2018",
@@ -9270,7 +9270,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "MPER",
-    "Score": "35,06"
+    "Score": "35.06"
   },
   {
     "N_Dossier": " 5478/2018",
@@ -9281,7 +9281,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,13"
+    "Score": "34.13"
   },
   {
     "N_Dossier": " 5500/2018",
@@ -9292,7 +9292,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,31"
+    "Score": "38.31"
   },
   {
     "N_Dossier": " 5517/2018",
@@ -9303,7 +9303,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "MPSE",
-    "Score": "31,92"
+    "Score": "31.92"
   },
   {
     "N_Dossier": " 5527/2018",
@@ -9314,7 +9314,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPER",
     "Choix_4": "MPSE",
-    "Score": "34,75"
+    "Score": "34.75"
   },
   {
     "N_Dossier": " 5529/2018",
@@ -9325,7 +9325,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MPER",
     "Choix_4": "MRMNE",
-    "Score": "31,15"
+    "Score": "31.15"
   },
   {
     "N_Dossier": " 5535/2018",
@@ -9336,7 +9336,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MRPQ",
-    "Score": "30,79"
+    "Score": "30.79"
   },
   {
     "N_Dossier": " 5544/2018",
@@ -9347,7 +9347,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MRMNS",
-    "Score": "36,24"
+    "Score": "36.24"
   },
   {
     "N_Dossier": " 5548/2018",
@@ -9358,7 +9358,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPSE",
     "Choix_4": "",
-    "Score": "43,11"
+    "Score": "43.11"
   },
   {
     "N_Dossier": " 5552/2018",
@@ -9369,7 +9369,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,55"
+    "Score": "36.55"
   },
   {
     "N_Dossier": " 5555/2018",
@@ -9380,7 +9380,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MPER",
     "Choix_4": "MRMNE",
-    "Score": "30,52"
+    "Score": "30.52"
   },
   {
     "N_Dossier": " 5564/2018",
@@ -9391,7 +9391,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "MPISI",
     "Choix_4": "MPER",
-    "Score": "26,88"
+    "Score": "26.88"
   },
   {
     "N_Dossier": " 5579/2018",
@@ -9402,7 +9402,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,26"
+    "Score": "36.26"
   },
   {
     "N_Dossier": " 5585/2018",
@@ -9413,7 +9413,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "28,33"
+    "Score": "28.33"
   },
   {
     "N_Dossier": " 5590/2018",
@@ -9424,7 +9424,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MRSRCO",
     "Choix_4": "MRSPCM",
-    "Score": "32,55"
+    "Score": "32.55"
   },
   {
     "N_Dossier": " 5598/2018",
@@ -9435,7 +9435,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MPTC",
     "Choix_4": "MPER",
-    "Score": "30,36"
+    "Score": "30.36"
   },
   {
     "N_Dossier": " 5612/2018",
@@ -9446,7 +9446,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MPSE",
-    "Score": "31,08"
+    "Score": "31.08"
   },
   {
     "N_Dossier": " 5627/2018",
@@ -9457,7 +9457,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRSRCO",
     "Choix_4": "MRSPCM",
-    "Score": "33,14"
+    "Score": "33.14"
   },
   {
     "N_Dossier": " 5629/2018",
@@ -9468,7 +9468,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "MRMNE",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 5634/2018",
@@ -9479,7 +9479,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MPER",
     "Choix_4": "MPEAPCI",
-    "Score": "34,42"
+    "Score": "34.42"
   },
   {
     "N_Dossier": " 5635/2018",
@@ -9490,7 +9490,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "42,27"
+    "Score": "42.27"
   },
   {
     "N_Dossier": " 5653/2018",
@@ -9501,7 +9501,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,57"
+    "Score": "32.57"
   },
   {
     "N_Dossier": " 5669/2018",
@@ -9512,7 +9512,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "MRPQ",
-    "Score": "30,69"
+    "Score": "30.69"
   },
   {
     "N_Dossier": " 5672/2018",
@@ -9523,7 +9523,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "",
-    "Score": "40,66"
+    "Score": "40.66"
   },
   {
     "N_Dossier": " 5700/2018",
@@ -9534,7 +9534,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "34,86"
+    "Score": "34.86"
   },
   {
     "N_Dossier": " 5722/2018",
@@ -9545,7 +9545,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "46,82"
+    "Score": "46.82"
   },
   {
     "N_Dossier": " 5733/2018",
@@ -9556,7 +9556,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "28,61"
+    "Score": "28.61"
   },
   {
     "N_Dossier": " 5734/2018",
@@ -9567,7 +9567,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "42,82"
+    "Score": "42.82"
   },
   {
     "N_Dossier": " 5750/2018",
@@ -9578,7 +9578,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "MPTC",
-    "Score": "32,36"
+    "Score": "32.36"
   },
   {
     "N_Dossier": " 5755/2018",
@@ -9589,7 +9589,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "MPER",
-    "Score": "37,55"
+    "Score": "37.55"
   },
   {
     "N_Dossier": " 5760/2018",
@@ -9600,7 +9600,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRMNE",
     "Choix_4": "MRSPCM",
-    "Score": "32,19"
+    "Score": "32.19"
   },
   {
     "N_Dossier": " 5765/2018",
@@ -9611,7 +9611,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,75"
+    "Score": "32.75"
   },
   {
     "N_Dossier": " 5767/2018",
@@ -9622,7 +9622,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "27,27"
+    "Score": "27.27"
   },
   {
     "N_Dossier": " 5770/2018",
@@ -9633,7 +9633,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,10"
+    "Score": "35.10"
   },
   {
     "N_Dossier": " 5777/2018",
@@ -9644,7 +9644,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "MRMSRA",
-    "Score": "34,47"
+    "Score": "34.47"
   },
   {
     "N_Dossier": " 5778/2018",
@@ -9655,7 +9655,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "35,62"
+    "Score": "35.62"
   },
   {
     "N_Dossier": " 5782/2018",
@@ -9677,7 +9677,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,24"
+    "Score": "31.24"
   },
   {
     "N_Dossier": " 5788/2018",
@@ -9688,7 +9688,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,28"
+    "Score": "33.28"
   },
   {
     "N_Dossier": " 5792/2018",
@@ -9699,7 +9699,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "44,87"
+    "Score": "44.87"
   },
   {
     "N_Dossier": " 5795/2018",
@@ -9710,7 +9710,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "31,38"
+    "Score": "31.38"
   },
   {
     "N_Dossier": " 5813/2018",
@@ -9721,7 +9721,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MRMNS",
-    "Score": "42,31"
+    "Score": "42.31"
   },
   {
     "N_Dossier": " 5823/2018",
@@ -9732,7 +9732,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MRMNS",
     "Choix_4": "MPTC",
-    "Score": "36,19"
+    "Score": "36.19"
   },
   {
     "N_Dossier": " 5834/2018",
@@ -9743,7 +9743,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,77"
+    "Score": "38.77"
   },
   {
     "N_Dossier": " 5838/2018",
@@ -9754,7 +9754,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRMNS",
     "Choix_4": "MRMNE",
-    "Score": "36,83"
+    "Score": "36.83"
   },
   {
     "N_Dossier": " 5842/2018",
@@ -9765,7 +9765,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "29,71"
+    "Score": "29.71"
   },
   {
     "N_Dossier": " 5852/2018",
@@ -9776,7 +9776,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "41,23"
+    "Score": "41.23"
   },
   {
     "N_Dossier": " 5857/2018",
@@ -9787,7 +9787,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,85"
+    "Score": "31.85"
   },
   {
     "N_Dossier": " 5865/2018",
@@ -9798,7 +9798,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRSPCM",
     "Choix_4": "MPER",
-    "Score": "38,07"
+    "Score": "38.07"
   },
   {
     "N_Dossier": " 5870/2018",
@@ -9809,7 +9809,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 5873/2018",
@@ -9820,7 +9820,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRSPCM",
     "Choix_4": "MRMSRA",
-    "Score": "30,15"
+    "Score": "30.15"
   },
   {
     "N_Dossier": " 5875/2018",
@@ -9831,7 +9831,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,91"
+    "Score": "32.91"
   },
   {
     "N_Dossier": " 5877/2018",
@@ -9842,7 +9842,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "46,49"
+    "Score": "46.49"
   },
   {
     "N_Dossier": " 5892/2018",
@@ -9853,7 +9853,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPTC",
     "Choix_4": "MPER",
-    "Score": "38,11"
+    "Score": "38.11"
   },
   {
     "N_Dossier": " 5899/2018",
@@ -9864,7 +9864,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,27"
+    "Score": "38.27"
   },
   {
     "N_Dossier": " 5915/2018",
@@ -9875,7 +9875,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPTC",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 5919/2018",
@@ -9886,7 +9886,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MPER",
     "Choix_4": "MPTC",
-    "Score": "36,36"
+    "Score": "36.36"
   },
   {
     "N_Dossier": " 5925/2018",
@@ -9897,7 +9897,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MPTC",
-    "Score": "36,49"
+    "Score": "36.49"
   },
   {
     "N_Dossier": " 5929/2018",
@@ -9908,7 +9908,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRPQ",
     "Choix_4": "MPER",
-    "Score": "42,52"
+    "Score": "42.52"
   },
   {
     "N_Dossier": " 5930/2018",
@@ -9919,7 +9919,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "28,24"
+    "Score": "28.24"
   },
   {
     "N_Dossier": " 5935/2018",
@@ -9930,7 +9930,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,63"
+    "Score": "31.63"
   },
   {
     "N_Dossier": " 5937/2018",
@@ -9941,7 +9941,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "45,59"
+    "Score": "45.59"
   },
   {
     "N_Dossier": " 5950/2018",
@@ -9952,7 +9952,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "MRSRCO",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 5955/2018",
@@ -9963,7 +9963,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,29"
+    "Score": "32.29"
   },
   {
     "N_Dossier": " 5970/2018",
@@ -9974,7 +9974,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPISI",
     "Choix_4": "MPER",
-    "Score": "38,27"
+    "Score": "38.27"
   },
   {
     "N_Dossier": " 5976/2018",
@@ -9985,7 +9985,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "27,04"
+    "Score": "27.04"
   },
   {
     "N_Dossier": " 5984/2018",
@@ -9996,7 +9996,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPSE",
     "Choix_4": "MRPQ",
-    "Score": "33,29"
+    "Score": "33.29"
   },
   {
     "N_Dossier": " 5988/2018",
@@ -10007,7 +10007,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRMNE",
     "Choix_4": "MPTC",
-    "Score": "38,06"
+    "Score": "38.06"
   },
   {
     "N_Dossier": " 5996/2018",
@@ -10018,7 +10018,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPTC",
     "Choix_4": "MRMNE",
-    "Score": "28,89"
+    "Score": "28.89"
   },
   {
     "N_Dossier": " 6007/2018",
@@ -10029,7 +10029,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPER",
     "Choix_4": "MPSE",
-    "Score": "28,78"
+    "Score": "28.78"
   },
   {
     "N_Dossier": " 6015/2018",
@@ -10040,7 +10040,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "38,20"
+    "Score": "38.20"
   },
   {
     "N_Dossier": " 6026/2018",
@@ -10051,7 +10051,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "33,97"
+    "Score": "33.97"
   },
   {
     "N_Dossier": " 6030/2018",
@@ -10062,7 +10062,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRMNS",
     "Choix_4": "MRSRCO",
-    "Score": "38,34"
+    "Score": "38.34"
   },
   {
     "N_Dossier": " 6032/2018",
@@ -10073,7 +10073,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "32,47"
+    "Score": "32.47"
   },
   {
     "N_Dossier": " 6034/2018",
@@ -10084,7 +10084,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "36,80"
+    "Score": "36.80"
   },
   {
     "N_Dossier": " 6038/2018",
@@ -10095,7 +10095,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "27,50"
+    "Score": "27.50"
   },
   {
     "N_Dossier": " 6043/2018",
@@ -10106,7 +10106,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 6049/2018",
@@ -10117,7 +10117,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPSE",
     "Choix_4": "MRMA",
-    "Score": "47,80"
+    "Score": "47.80"
   },
   {
     "N_Dossier": " 6054/2018",
@@ -10128,7 +10128,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "43,89"
+    "Score": "43.89"
   },
   {
     "N_Dossier": " 6058/2018",
@@ -10139,7 +10139,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MPER",
     "Choix_4": "MPTC",
-    "Score": "33,77"
+    "Score": "33.77"
   },
   {
     "N_Dossier": " 6059/2018",
@@ -10150,7 +10150,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRSPCM",
     "Choix_4": "MPER",
-    "Score": "32,73"
+    "Score": "32.73"
   },
   {
     "N_Dossier": " 6064/2018",
@@ -10161,7 +10161,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRMNE",
     "Choix_4": "",
-    "Score": "33,99"
+    "Score": "33.99"
   },
   {
     "N_Dossier": " 6070/2018",
@@ -10172,7 +10172,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "33,22"
+    "Score": "33.22"
   },
   {
     "N_Dossier": " 6074/2018",
@@ -10183,7 +10183,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,53"
+    "Score": "38.53"
   },
   {
     "N_Dossier": " 6079/2018",
@@ -10194,7 +10194,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "33,22"
+    "Score": "33.22"
   },
   {
     "N_Dossier": " 6084/2018",
@@ -10205,7 +10205,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,83"
+    "Score": "33.83"
   },
   {
     "N_Dossier": " 6085/2018",
@@ -10216,7 +10216,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "30,88"
+    "Score": "30.88"
   },
   {
     "N_Dossier": " 6087/2018",
@@ -10227,7 +10227,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MPTC",
     "Choix_4": "MRMSRA",
-    "Score": "32,35"
+    "Score": "32.35"
   },
   {
     "N_Dossier": " 6090/2018",
@@ -10238,7 +10238,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "MRMNS",
-    "Score": "27,25"
+    "Score": "27.25"
   },
   {
     "N_Dossier": " 6093/2018",
@@ -10249,7 +10249,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 6099/2018",
@@ -10260,7 +10260,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "MPISI",
-    "Score": "42,18"
+    "Score": "42.18"
   },
   {
     "N_Dossier": " 6102/2018",
@@ -10271,7 +10271,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPSE",
     "Choix_4": "MRMNE",
-    "Score": "29,20"
+    "Score": "29.20"
   },
   {
     "N_Dossier": " 6103/2018",
@@ -10282,7 +10282,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "MPER",
-    "Score": "36,91"
+    "Score": "36.91"
   },
   {
     "N_Dossier": " 6108/2018",
@@ -10293,7 +10293,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,69"
+    "Score": "33.69"
   },
   {
     "N_Dossier": " 6113/2018",
@@ -10304,7 +10304,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MRMNE",
     "Choix_4": "MPTC",
-    "Score": "36,65"
+    "Score": "36.65"
   },
   {
     "N_Dossier": " 6118/2018",
@@ -10315,7 +10315,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "29,11"
+    "Score": "29.11"
   },
   {
     "N_Dossier": " 6122/2018",
@@ -10326,7 +10326,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MPER",
     "Choix_4": "MPTC",
-    "Score": "32,52"
+    "Score": "32.52"
   },
   {
     "N_Dossier": " 6127/2018",
@@ -10337,7 +10337,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,35"
+    "Score": "32.35"
   },
   {
     "N_Dossier": " 6128/2018",
@@ -10348,7 +10348,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MRMNE",
-    "Score": "40,28"
+    "Score": "40.28"
   },
   {
     "N_Dossier": " 6133/2018",
@@ -10359,7 +10359,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRPQ",
     "Choix_4": "MPSE",
-    "Score": "26,89"
+    "Score": "26.89"
   },
   {
     "N_Dossier": " 6139/2018",
@@ -10370,7 +10370,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "30,25"
+    "Score": "30.25"
   },
   {
     "N_Dossier": " 6143/2018",
@@ -10381,7 +10381,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRPQ",
     "Choix_4": "MPSE",
-    "Score": "26,89"
+    "Score": "26.89"
   },
   {
     "N_Dossier": " 6144/2018",
@@ -10392,7 +10392,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "48,07"
+    "Score": "48.07"
   },
   {
     "N_Dossier": " 6145/2018",
@@ -10403,7 +10403,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "48,07"
+    "Score": "48.07"
   },
   {
     "N_Dossier": " 6158/2018",
@@ -10414,7 +10414,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRPQ",
     "Choix_4": "MPER",
-    "Score": "34,50"
+    "Score": "34.50"
   },
   {
     "N_Dossier": " 6167/2018",
@@ -10425,7 +10425,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,42"
+    "Score": "33.42"
   },
   {
     "N_Dossier": " 6170/2018",
@@ -10436,7 +10436,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "MPISI",
-    "Score": "28,95"
+    "Score": "28.95"
   },
   {
     "N_Dossier": " 6175/2018",
@@ -10447,7 +10447,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,27"
+    "Score": "34.27"
   },
   {
     "N_Dossier": " 6189/2018",
@@ -10458,7 +10458,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,32"
+    "Score": "31.32"
   },
   {
     "N_Dossier": " 6195/2018",
@@ -10469,7 +10469,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "30,41"
+    "Score": "30.41"
   },
   {
     "N_Dossier": " 6197/2018",
@@ -10480,7 +10480,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,61"
+    "Score": "32.61"
   },
   {
     "N_Dossier": " 6208/2018",
@@ -10491,7 +10491,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "MPER",
-    "Score": "35,80"
+    "Score": "35.80"
   },
   {
     "N_Dossier": " 6215/2018",
@@ -10502,7 +10502,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "MRMNE",
-    "Score": "35,04"
+    "Score": "35.04"
   },
   {
     "N_Dossier": " 6217/2018",
@@ -10513,7 +10513,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "33,11"
+    "Score": "33.11"
   },
   {
     "N_Dossier": " 6222/2018",
@@ -10524,7 +10524,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "36,68"
+    "Score": "36.68"
   },
   {
     "N_Dossier": " 6228/2018",
@@ -10535,7 +10535,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPER",
     "Choix_4": "MRMNS",
-    "Score": "31,08"
+    "Score": "31.08"
   },
   {
     "N_Dossier": " 6233/2018",
@@ -10546,7 +10546,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MRMNE",
     "Choix_4": "MPSE",
-    "Score": "42,29"
+    "Score": "42.29"
   },
   {
     "N_Dossier": " 6237/2018",
@@ -10557,7 +10557,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "26,63"
+    "Score": "26.63"
   },
   {
     "N_Dossier": " 6244/2018",
@@ -10568,7 +10568,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,29"
+    "Score": "32.29"
   },
   {
     "N_Dossier": " 6252/2018",
@@ -10579,7 +10579,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 6258/2018",
@@ -10590,7 +10590,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "27,04"
+    "Score": "27.04"
   },
   {
     "N_Dossier": " 6264/2018",
@@ -10601,7 +10601,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,70"
+    "Score": "38.70"
   },
   {
     "N_Dossier": " 6269/2018",
@@ -10612,7 +10612,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,25"
+    "Score": "33.25"
   },
   {
     "N_Dossier": " 6274/2018",
@@ -10623,7 +10623,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,06"
+    "Score": "38.06"
   },
   {
     "N_Dossier": " 6278/2018",
@@ -10634,7 +10634,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRPQ",
     "Choix_4": "MPSE",
-    "Score": "32,81"
+    "Score": "32.81"
   },
   {
     "N_Dossier": " 6282/2018",
@@ -10645,7 +10645,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "MPER",
-    "Score": "34,48"
+    "Score": "34.48"
   },
   {
     "N_Dossier": " 6298/2018",
@@ -10656,7 +10656,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRMNE",
     "Choix_4": "MRPQ",
-    "Score": "33,58"
+    "Score": "33.58"
   },
   {
     "N_Dossier": " 6305/2018",
@@ -10667,7 +10667,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "30,87"
+    "Score": "30.87"
   },
   {
     "N_Dossier": " 6307/2018",
@@ -10678,7 +10678,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRPQ",
     "Choix_4": "MPSE",
-    "Score": "32,81"
+    "Score": "32.81"
   },
   {
     "N_Dossier": " 6314/2018",
@@ -10689,7 +10689,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,48"
+    "Score": "35.48"
   },
   {
     "N_Dossier": " 6319/2018",
@@ -10700,7 +10700,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "26,21"
+    "Score": "26.21"
   },
   {
     "N_Dossier": " 6324/2018",
@@ -10711,7 +10711,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "MPTC",
-    "Score": "32,34"
+    "Score": "32.34"
   },
   {
     "N_Dossier": " 6333/2018",
@@ -10722,7 +10722,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,36"
+    "Score": "31.36"
   },
   {
     "N_Dossier": " 6334/2018",
@@ -10733,7 +10733,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,94"
+    "Score": "31.94"
   },
   {
     "N_Dossier": " 6337/2018",
@@ -10744,7 +10744,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MRMA",
     "Choix_4": "MRMF",
-    "Score": "47,54"
+    "Score": "47.54"
   },
   {
     "N_Dossier": " 6340/2018",
@@ -10755,7 +10755,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MRMSRA",
     "Choix_4": "",
-    "Score": "31,34"
+    "Score": "31.34"
   },
   {
     "N_Dossier": " 6347/2018",
@@ -10766,7 +10766,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRPQ",
     "Choix_4": "",
-    "Score": "34,25"
+    "Score": "34.25"
   },
   {
     "N_Dossier": " 6348/2018",
@@ -10777,7 +10777,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "30,78"
+    "Score": "30.78"
   },
   {
     "N_Dossier": " 6352/2018",
@@ -10788,7 +10788,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "MRMNE",
-    "Score": "30,25"
+    "Score": "30.25"
   },
   {
     "N_Dossier": " 6357/2018",
@@ -10799,7 +10799,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRSPCM",
     "Choix_4": "MPER",
-    "Score": "29,96"
+    "Score": "29.96"
   },
   {
     "N_Dossier": " 6359/2018",
@@ -10810,7 +10810,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,40"
+    "Score": "31.40"
   },
   {
     "N_Dossier": " 6365/2018",
@@ -10821,7 +10821,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRMNE",
     "Choix_4": "MPTC",
-    "Score": "42,79"
+    "Score": "42.79"
   },
   {
     "N_Dossier": " 6370/2018",
@@ -10832,7 +10832,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,46"
+    "Score": "31.46"
   },
   {
     "N_Dossier": " 6373/2018",
@@ -10843,7 +10843,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MRMA",
     "Choix_4": "MPSE",
-    "Score": "31,80"
+    "Score": "31.80"
   },
   {
     "N_Dossier": " 6374/2018",
@@ -10854,7 +10854,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "30,99"
+    "Score": "30.99"
   },
   {
     "N_Dossier": " 6379/2018",
@@ -10865,7 +10865,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 6383/2018",
@@ -10876,7 +10876,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MRMNE",
     "Choix_4": "MPER",
-    "Score": "37,20"
+    "Score": "37.20"
   },
   {
     "N_Dossier": " 6390/2018",
@@ -10887,7 +10887,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,03"
+    "Score": "37.03"
   },
   {
     "N_Dossier": " 6393/2018",
@@ -10898,7 +10898,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,48"
+    "Score": "37.48"
   },
   {
     "N_Dossier": " 6400/2018",
@@ -10909,7 +10909,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,00"
+    "Score": "37.00"
   },
   {
     "N_Dossier": " 6412/2018",
@@ -10920,7 +10920,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MRSPCM",
     "Choix_4": "MRMNS",
-    "Score": "34,99"
+    "Score": "34.99"
   },
   {
     "N_Dossier": " 6415/2018",
@@ -10931,7 +10931,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,12"
+    "Score": "31.12"
   },
   {
     "N_Dossier": " 6418/2018",
@@ -10942,7 +10942,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "MPER",
-    "Score": "34,01"
+    "Score": "34.01"
   },
   {
     "N_Dossier": " 6428/2018",
@@ -10953,7 +10953,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRSPCM",
     "Choix_4": "",
-    "Score": "36,65"
+    "Score": "36.65"
   },
   {
     "N_Dossier": " 6439/2018",
@@ -10964,7 +10964,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "30,96"
+    "Score": "30.96"
   },
   {
     "N_Dossier": " 6444/2018",
@@ -10975,7 +10975,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "25,30"
+    "Score": "25.30"
   },
   {
     "N_Dossier": " 6450/2018",
@@ -10986,7 +10986,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 6455/2018",
@@ -10997,7 +10997,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "35,80"
+    "Score": "35.80"
   },
   {
     "N_Dossier": " 6457/2018",
@@ -11008,7 +11008,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MPSE",
     "Choix_4": "MPER",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 6462/2018",
@@ -11019,7 +11019,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRMNE",
     "Choix_4": "MPTC",
-    "Score": "31,33"
+    "Score": "31.33"
   },
   {
     "N_Dossier": " 6463/2018",
@@ -11030,7 +11030,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "37,51"
+    "Score": "37.51"
   },
   {
     "N_Dossier": " 6467/2018",
@@ -11041,7 +11041,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRSRCO",
     "Choix_4": "MRSPCM",
-    "Score": "41,92"
+    "Score": "41.92"
   },
   {
     "N_Dossier": " 6470/2018",
@@ -11052,7 +11052,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,69"
+    "Score": "32.69"
   },
   {
     "N_Dossier": " 6472/2018",
@@ -11063,7 +11063,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "42,24"
+    "Score": "42.24"
   },
   {
     "N_Dossier": " 6474/2018",
@@ -11074,7 +11074,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MRMSRA",
     "Choix_4": "",
-    "Score": "31,87"
+    "Score": "31.87"
   },
   {
     "N_Dossier": " 6475/2018",
@@ -11085,7 +11085,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRSPCM",
     "Choix_4": "",
-    "Score": "34,57"
+    "Score": "34.57"
   },
   {
     "N_Dossier": " 6479/2018",
@@ -11096,7 +11096,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,02"
+    "Score": "36.02"
   },
   {
     "N_Dossier": " 6484/2018",
@@ -11107,7 +11107,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "44,42"
+    "Score": "44.42"
   },
   {
     "N_Dossier": " 6488/2018",
@@ -11118,7 +11118,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "MPISI",
-    "Score": "37,60"
+    "Score": "37.60"
   },
   {
     "N_Dossier": " 6490/2018",
@@ -11129,7 +11129,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,79"
+    "Score": "31.79"
   },
   {
     "N_Dossier": " 6494/2018",
@@ -11140,7 +11140,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "28,68"
+    "Score": "28.68"
   },
   {
     "N_Dossier": " 6499/2018",
@@ -11151,7 +11151,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "36,85"
+    "Score": "36.85"
   },
   {
     "N_Dossier": " 6503/2018",
@@ -11162,7 +11162,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRSPCM",
     "Choix_4": "MRSRCO",
-    "Score": "30,11"
+    "Score": "30.11"
   },
   {
     "N_Dossier": " 6505/2018",
@@ -11173,7 +11173,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "40,26"
+    "Score": "40.26"
   },
   {
     "N_Dossier": " 6514/2018",
@@ -11184,7 +11184,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRMNS",
     "Choix_4": "",
-    "Score": "42,98"
+    "Score": "42.98"
   },
   {
     "N_Dossier": " 6524/2018",
@@ -11195,7 +11195,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "40,70"
+    "Score": "40.70"
   },
   {
     "N_Dossier": " 6534/2018",
@@ -11206,7 +11206,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,34"
+    "Score": "34.34"
   },
   {
     "N_Dossier": " 6539/2018",
@@ -11217,7 +11217,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MPER",
-    "Score": "32,82"
+    "Score": "32.82"
   },
   {
     "N_Dossier": " 6544/2018",
@@ -11228,7 +11228,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "40,84"
+    "Score": "40.84"
   },
   {
     "N_Dossier": " 6549/2018",
@@ -11239,7 +11239,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "45,88"
+    "Score": "45.88"
   },
   {
     "N_Dossier": " 6550/2018",
@@ -11250,7 +11250,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRMNE",
     "Choix_4": "MPTC",
-    "Score": "34,90"
+    "Score": "34.90"
   },
   {
     "N_Dossier": " 6564/2018",
@@ -11261,7 +11261,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRMNS",
     "Choix_4": "",
-    "Score": "29,20"
+    "Score": "29.20"
   },
   {
     "N_Dossier": " 6572/2018",
@@ -11272,7 +11272,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "41,09"
+    "Score": "41.09"
   },
   {
     "N_Dossier": " 6577/2018",
@@ -11283,7 +11283,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MRMNS",
-    "Score": "35,68"
+    "Score": "35.68"
   },
   {
     "N_Dossier": " 6582/2018",
@@ -11294,7 +11294,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRMNE",
     "Choix_4": "MPTC",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 6584/2018",
@@ -11305,7 +11305,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MPER",
     "Choix_4": "MPSE",
-    "Score": "33,46"
+    "Score": "33.46"
   },
   {
     "N_Dossier": " 6590/2018",
@@ -11316,7 +11316,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRMNS",
     "Choix_4": "MPEAPCI",
-    "Score": "41,50"
+    "Score": "41.50"
   },
   {
     "N_Dossier": " 6595/2018",
@@ -11327,7 +11327,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRPQ",
     "Choix_4": "MPTC",
-    "Score": "31,78"
+    "Score": "31.78"
   },
   {
     "N_Dossier": " 6597/2018",
@@ -11338,7 +11338,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MPTC",
     "Choix_4": "MPSE",
-    "Score": "32,42"
+    "Score": "32.42"
   },
   {
     "N_Dossier": " 6598/2018",
@@ -11349,7 +11349,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "34,49"
+    "Score": "34.49"
   },
   {
     "N_Dossier": " 6599/2018",
@@ -11360,7 +11360,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,66"
+    "Score": "38.66"
   },
   {
     "N_Dossier": " 6605/2018",
@@ -11371,7 +11371,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "29,68"
+    "Score": "29.68"
   },
   {
     "N_Dossier": " 6609/2018",
@@ -11382,7 +11382,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "MPSE",
-    "Score": "34,61"
+    "Score": "34.61"
   },
   {
     "N_Dossier": " 6613/2018",
@@ -11393,7 +11393,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,70"
+    "Score": "31.70"
   },
   {
     "N_Dossier": " 6614/2018",
@@ -11404,7 +11404,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MPER",
     "Choix_4": "MPTC",
-    "Score": "37,22"
+    "Score": "37.22"
   },
   {
     "N_Dossier": " 6615/2018",
@@ -11415,7 +11415,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "",
-    "Score": "27,49"
+    "Score": "27.49"
   },
   {
     "N_Dossier": " 6622/2018",
@@ -11426,7 +11426,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "34,13"
+    "Score": "34.13"
   },
   {
     "N_Dossier": " 6627/2018",
@@ -11437,7 +11437,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MRPQ",
     "Choix_4": "MRMNS",
-    "Score": "30,32"
+    "Score": "30.32"
   },
   {
     "N_Dossier": " 6644/2018",
@@ -11448,7 +11448,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,21"
+    "Score": "34.21"
   },
   {
     "N_Dossier": " 6647/2018",
@@ -11459,7 +11459,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "45,45"
+    "Score": "45.45"
   },
   {
     "N_Dossier": " 6648/2018",
@@ -11470,7 +11470,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "30,66"
+    "Score": "30.66"
   },
   {
     "N_Dossier": " 6653/2018",
@@ -11481,7 +11481,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,87"
+    "Score": "38.87"
   },
   {
     "N_Dossier": " 6664/2018",
@@ -11492,7 +11492,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MPISI",
-    "Score": "34,97"
+    "Score": "34.97"
   },
   {
     "N_Dossier": " 6673/2018",
@@ -11503,7 +11503,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRPQ",
     "Choix_4": "",
-    "Score": "31,99"
+    "Score": "31.99"
   },
   {
     "N_Dossier": " 6674/2018",
@@ -11514,7 +11514,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "32,72"
+    "Score": "32.72"
   },
   {
     "N_Dossier": " 6680/2018",
@@ -11525,7 +11525,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MRMF",
     "Choix_4": "MRMNE",
-    "Score": "47,54"
+    "Score": "47.54"
   },
   {
     "N_Dossier": " 6682/2018",
@@ -11536,7 +11536,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPISI",
     "Choix_4": "MPSE",
-    "Score": "28,77"
+    "Score": "28.77"
   },
   {
     "N_Dossier": " 6690/2018",
@@ -11547,7 +11547,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "37,07"
+    "Score": "37.07"
   },
   {
     "N_Dossier": " 6692/2018",
@@ -11558,7 +11558,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRMNS",
     "Choix_4": "MPER",
-    "Score": "27,46"
+    "Score": "27.46"
   },
   {
     "N_Dossier": " 6693/2018",
@@ -11569,7 +11569,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPSE",
     "Choix_4": "MPISI",
-    "Score": "40,12"
+    "Score": "40.12"
   },
   {
     "N_Dossier": " 6694/2018",
@@ -11580,7 +11580,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPSE",
     "Choix_4": "MPISI",
-    "Score": "39,77"
+    "Score": "39.77"
   },
   {
     "N_Dossier": " 6699/2018",
@@ -11591,7 +11591,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MPER",
     "Choix_4": "",
-    "Score": "32,34"
+    "Score": "32.34"
   },
   {
     "N_Dossier": " 6702/2018",
@@ -11602,7 +11602,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "26,50"
+    "Score": "26.50"
   },
   {
     "N_Dossier": " 6710/2018",
@@ -11613,7 +11613,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "MPSE",
     "Choix_4": "MPER",
-    "Score": "38,90"
+    "Score": "38.90"
   },
   {
     "N_Dossier": " 6713/2018",
@@ -11624,7 +11624,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "44,12"
+    "Score": "44.12"
   },
   {
     "N_Dossier": " 6715/2018",
@@ -11635,7 +11635,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "36,11"
+    "Score": "36.11"
   },
   {
     "N_Dossier": " 6720/2018",
@@ -11646,7 +11646,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRPQ",
     "Choix_4": "MPER",
-    "Score": "33,65"
+    "Score": "33.65"
   },
   {
     "N_Dossier": " 6722/2018",
@@ -11657,7 +11657,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "41,57"
+    "Score": "41.57"
   },
   {
     "N_Dossier": " 6724/2018",
@@ -11668,7 +11668,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPER",
     "Choix_4": "MRPQ",
-    "Score": "33,75"
+    "Score": "33.75"
   },
   {
     "N_Dossier": " 6733/2018",
@@ -11679,7 +11679,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,45"
+    "Score": "34.45"
   },
   {
     "N_Dossier": " 6737/2018",
@@ -11690,7 +11690,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRMSRA",
     "Choix_4": "MPSE",
-    "Score": "36,91"
+    "Score": "36.91"
   },
   {
     "N_Dossier": " 6749/2018",
@@ -11701,7 +11701,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "32,33"
+    "Score": "32.33"
   },
   {
     "N_Dossier": " 6759/2018",
@@ -11712,7 +11712,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MRPQ",
     "Choix_4": "MPSE",
-    "Score": "29,35"
+    "Score": "29.35"
   },
   {
     "N_Dossier": " 6775/2018",
@@ -11723,7 +11723,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRPQ",
     "Choix_4": "MPEAPCI",
-    "Score": "31,17"
+    "Score": "31.17"
   },
   {
     "N_Dossier": " 6780/2018",
@@ -11734,7 +11734,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRPQ",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 6784/2018",
@@ -11745,7 +11745,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "45,08"
+    "Score": "45.08"
   },
   {
     "N_Dossier": " 6788/2018",
@@ -11756,7 +11756,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPSE",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 6792/2018",
@@ -11767,7 +11767,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "MPER",
-    "Score": "31,82"
+    "Score": "31.82"
   },
   {
     "N_Dossier": " 6798/2018",
@@ -11778,7 +11778,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "38,36"
+    "Score": "38.36"
   },
   {
     "N_Dossier": " 6803/2018",
@@ -11789,7 +11789,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "MRPQ",
-    "Score": "30,21"
+    "Score": "30.21"
   },
   {
     "N_Dossier": " 6808/2018",
@@ -11800,7 +11800,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "30,07"
+    "Score": "30.07"
   },
   {
     "N_Dossier": " 6814/2018",
@@ -11811,7 +11811,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,47"
+    "Score": "32.47"
   },
   {
     "N_Dossier": " 6819/2018",
@@ -11822,7 +11822,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MPTC",
     "Choix_4": "MPER",
-    "Score": "37,79"
+    "Score": "37.79"
   },
   {
     "N_Dossier": " 6824/2018",
@@ -11833,7 +11833,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "MRMSRA",
-    "Score": "36,74"
+    "Score": "36.74"
   },
   {
     "N_Dossier": " 6830/2018",
@@ -11844,7 +11844,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "34,26"
+    "Score": "34.26"
   },
   {
     "N_Dossier": " 6833/2018",
@@ -11855,7 +11855,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "29,64"
+    "Score": "29.64"
   },
   {
     "N_Dossier": " 6834/2018",
@@ -11866,7 +11866,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MPER",
     "Choix_4": "MPSE",
-    "Score": "44,69"
+    "Score": "44.69"
   },
   {
     "N_Dossier": " 6844/2018",
@@ -11877,7 +11877,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MRSPCM",
     "Choix_4": "MRSRCO",
-    "Score": "34,19"
+    "Score": "34.19"
   },
   {
     "N_Dossier": " 6847/2018",
@@ -11888,7 +11888,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRSPCM",
     "Choix_4": "MRMNE",
-    "Score": "30,00"
+    "Score": "30.00"
   },
   {
     "N_Dossier": " 6855/2018",
@@ -11899,7 +11899,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MPER",
     "Choix_4": "MRPQ",
-    "Score": "30,54"
+    "Score": "30.54"
   },
   {
     "N_Dossier": " 6862/2018",
@@ -11910,7 +11910,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,58"
+    "Score": "34.58"
   },
   {
     "N_Dossier": " 6869/2018",
@@ -11921,7 +11921,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MRSPCM",
     "Choix_4": "MRSRCO",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 6873/2018",
@@ -11932,7 +11932,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,14"
+    "Score": "35.14"
   },
   {
     "N_Dossier": " 6875/2018",
@@ -11943,7 +11943,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "30,75"
+    "Score": "30.75"
   },
   {
     "N_Dossier": " 6879/2018",
@@ -11954,7 +11954,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "28,11"
+    "Score": "28.11"
   },
   {
     "N_Dossier": " 6884/2018",
@@ -11965,7 +11965,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,21"
+    "Score": "32.21"
   },
   {
     "N_Dossier": " 6889/2018",
@@ -11976,7 +11976,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "29,53"
+    "Score": "29.53"
   },
   {
     "N_Dossier": " 6894/2018",
@@ -11987,7 +11987,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRPQ",
     "Choix_4": "MPSE",
-    "Score": "32,38"
+    "Score": "32.38"
   },
   {
     "N_Dossier": " 6895/2018",
@@ -11998,7 +11998,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRMNE",
     "Choix_4": "",
-    "Score": "32,12"
+    "Score": "32.12"
   },
   {
     "N_Dossier": " 6900/2018",
@@ -12009,7 +12009,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "34,08"
+    "Score": "34.08"
   },
   {
     "N_Dossier": " 6905/2018",
@@ -12020,7 +12020,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRMNE",
     "Choix_4": "MPER",
-    "Score": "32,52"
+    "Score": "32.52"
   },
   {
     "N_Dossier": " 6910/2018",
@@ -12031,7 +12031,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MPER",
     "Choix_4": "MPSE",
-    "Score": "32,82"
+    "Score": "32.82"
   },
   {
     "N_Dossier": " 6912/2018",
@@ -12042,7 +12042,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRSPCM",
     "Choix_4": "MRMNE",
-    "Score": "37,39"
+    "Score": "37.39"
   },
   {
     "N_Dossier": " 6925/2018",
@@ -12053,7 +12053,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRPQ",
     "Choix_4": "",
-    "Score": "34,00"
+    "Score": "34.00"
   },
   {
     "N_Dossier": " 6930/2018",
@@ -12064,7 +12064,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPTC",
     "Choix_4": "",
-    "Score": "35,35"
+    "Score": "35.35"
   },
   {
     "N_Dossier": " 6934/2018",
@@ -12075,7 +12075,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MPER",
     "Choix_4": "",
-    "Score": "26,80"
+    "Score": "26.80"
   },
   {
     "N_Dossier": " 6937/2018",
@@ -12086,7 +12086,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "40,30"
+    "Score": "40.30"
   },
   {
     "N_Dossier": " 6939/2018",
@@ -12097,7 +12097,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPISI",
     "Choix_4": "MPTC",
-    "Score": "32,55"
+    "Score": "32.55"
   },
   {
     "N_Dossier": " 6950/2018",
@@ -12108,7 +12108,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "30,25"
+    "Score": "30.25"
   },
   {
     "N_Dossier": " 6962/2018",
@@ -12119,7 +12119,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "44,35"
+    "Score": "44.35"
   },
   {
     "N_Dossier": " 6967/2018",
@@ -12130,7 +12130,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,15"
+    "Score": "39.15"
   },
   {
     "N_Dossier": " 6970/2018",
@@ -12141,7 +12141,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,20"
+    "Score": "33.20"
   },
   {
     "N_Dossier": " 6974/2018",
@@ -12152,7 +12152,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "22,22"
+    "Score": "22.22"
   },
   {
     "N_Dossier": " 6979/2018",
@@ -12163,7 +12163,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "28,48"
+    "Score": "28.48"
   },
   {
     "N_Dossier": " 6989/2018",
@@ -12174,7 +12174,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MPER",
     "Choix_4": "MPTC",
-    "Score": "38,44"
+    "Score": "38.44"
   },
   {
     "N_Dossier": " 6993/2018",
@@ -12185,7 +12185,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,27"
+    "Score": "39.27"
   },
   {
     "N_Dossier": " 7012/2018",
@@ -12196,7 +12196,7 @@ const data = [
     "Choix_2": "MPTC",
     "Choix_3": "MPSE",
     "Choix_4": "",
-    "Score": "38,06"
+    "Score": "38.06"
   },
   {
     "N_Dossier": " 7015/2018",
@@ -12207,7 +12207,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "47,04"
+    "Score": "47.04"
   },
   {
     "N_Dossier": " 7020/2018",
@@ -12218,7 +12218,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MPER",
     "Choix_4": "MRSPCM",
-    "Score": "28,79"
+    "Score": "28.79"
   },
   {
     "N_Dossier": " 7023/2018",
@@ -12229,7 +12229,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MPSE",
     "Choix_4": "MPER",
-    "Score": "30,82"
+    "Score": "30.82"
   },
   {
     "N_Dossier": " 7025/2018",
@@ -12240,7 +12240,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "35,51"
+    "Score": "35.51"
   },
   {
     "N_Dossier": " 7032/2018",
@@ -12251,7 +12251,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,36"
+    "Score": "31.36"
   },
   {
     "N_Dossier": " 7034/2018",
@@ -12262,7 +12262,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "MPER",
-    "Score": "32,34"
+    "Score": "32.34"
   },
   {
     "N_Dossier": " 7045/2018",
@@ -12273,7 +12273,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,61"
+    "Score": "33.61"
   },
   {
     "N_Dossier": " 7058/2018",
@@ -12284,7 +12284,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "MPSE",
     "Choix_4": "MPER",
-    "Score": "32,87"
+    "Score": "32.87"
   },
   {
     "N_Dossier": " 7062/2018",
@@ -12295,7 +12295,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,76"
+    "Score": "36.76"
   },
   {
     "N_Dossier": " 7069/2018",
@@ -12306,7 +12306,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPER",
     "Choix_4": "",
-    "Score": "35,19"
+    "Score": "35.19"
   },
   {
     "N_Dossier": " 7072/2018",
@@ -12317,7 +12317,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "MPTC",
-    "Score": "31,35"
+    "Score": "31.35"
   },
   {
     "N_Dossier": " 7073/2018",
@@ -12328,7 +12328,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,90"
+    "Score": "31.90"
   },
   {
     "N_Dossier": " 7074/2018",
@@ -12339,7 +12339,7 @@ const data = [
     "Choix_2": "MPEAPCI",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "33,50"
+    "Score": "33.50"
   },
   {
     "N_Dossier": " 7077/2018",
@@ -12350,7 +12350,7 @@ const data = [
     "Choix_2": "MRMF",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 7078/2018",
@@ -12361,7 +12361,7 @@ const data = [
     "Choix_2": "MPSE",
     "Choix_3": "MPISI",
     "Choix_4": "MPER",
-    "Score": "32,71"
+    "Score": "32.71"
   },
   {
     "N_Dossier": " 7080/2018",
@@ -12372,7 +12372,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MRPQ",
     "Choix_4": "MPTC",
-    "Score": "36,00"
+    "Score": "36.00"
   },
   {
     "N_Dossier": " 7082/2018",
@@ -12383,7 +12383,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MRMNE",
     "Choix_4": "",
-    "Score": "34,04"
+    "Score": "34.04"
   },
   {
     "N_Dossier": " 7084/2018",
@@ -12394,7 +12394,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 7088/2018",
@@ -12405,7 +12405,7 @@ const data = [
     "Choix_2": "MRMNE",
     "Choix_3": "MPER",
     "Choix_4": "MPISI",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 7089/2018",
@@ -12416,7 +12416,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MRPQ",
     "Choix_4": "MRMSRA",
-    "Score": "36,83"
+    "Score": "36.83"
   },
   {
     "N_Dossier": " 7092/2018",
@@ -12427,7 +12427,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,83"
+    "Score": "39.83"
   },
   {
     "N_Dossier": " 7109/2018",
@@ -12438,7 +12438,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MRSRCO",
     "Choix_4": "",
-    "Score": "47,81"
+    "Score": "47.81"
   },
   {
     "N_Dossier": " 7113/2018",
@@ -12449,7 +12449,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "MRPQ",
     "Choix_4": "MPISI",
-    "Score": "29,73"
+    "Score": "29.73"
   },
   {
     "N_Dossier": " 7124/2018",
@@ -12471,7 +12471,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRMNS",
     "Choix_4": "MPER",
-    "Score": "46,43"
+    "Score": "46.43"
   },
   {
     "N_Dossier": " 7142/2018",
@@ -12482,7 +12482,7 @@ const data = [
     "Choix_2": "MRMNS",
     "Choix_3": "MRMNE",
     "Choix_4": "",
-    "Score": "30,26"
+    "Score": "30.26"
   },
   {
     "N_Dossier": " 7143/2018",
@@ -12493,7 +12493,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,77"
+    "Score": "31.77"
   },
   {
     "N_Dossier": " 7144/2018",
@@ -12504,7 +12504,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MRSPCM",
     "Choix_4": "MPSE",
-    "Score": "42,71"
+    "Score": "42.71"
   },
   {
     "N_Dossier": " 7155/2018",
@@ -12515,7 +12515,7 @@ const data = [
     "Choix_2": "MPER",
     "Choix_3": "MPSE",
     "Choix_4": "MPTC",
-    "Score": "35,65"
+    "Score": "35.65"
   },
   {
     "N_Dossier": " 7159/2018",
@@ -12526,7 +12526,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "MRSPCM",
     "Choix_4": "MRPQ",
-    "Score": "39,94"
+    "Score": "39.94"
   },
   {
     "N_Dossier": " 7163/2018",
@@ -12537,7 +12537,7 @@ const data = [
     "Choix_2": "MPISI",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "36,07"
+    "Score": "36.07"
   },
   {
     "N_Dossier": " 7168/2018",
@@ -12548,7 +12548,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 7169/2018",
@@ -12559,7 +12559,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "45,00"
+    "Score": "45.00"
   },
   {
     "N_Dossier": " 7182/2018",
@@ -12570,7 +12570,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "33,45"
+    "Score": "33.45"
   },
   {
     "N_Dossier": " 7187/2018",
@@ -12581,7 +12581,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,97"
+    "Score": "31.97"
   },
   {
     "N_Dossier": " 7193/2018",
@@ -12592,7 +12592,7 @@ const data = [
     "Choix_2": "MRSRCO",
     "Choix_3": "MRMNS",
     "Choix_4": "MPER",
-    "Score": "43,76"
+    "Score": "43.76"
   },
   {
     "N_Dossier": " 7198/2018",
@@ -12603,7 +12603,7 @@ const data = [
     "Choix_2": "MRMA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "31,04"
+    "Score": "31.04"
   },
   {
     "N_Dossier": " 7200/2018",
@@ -12614,7 +12614,7 @@ const data = [
     "Choix_2": "MRPQ",
     "Choix_3": "MPER",
     "Choix_4": "MPSE",
-    "Score": "00,00"
+    "Score": "00.00"
   },
   {
     "N_Dossier": " 7212/2018",
@@ -12625,7 +12625,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "32,10"
+    "Score": "32.10"
   },
   {
     "N_Dossier": " 7229/2018",
@@ -12636,7 +12636,7 @@ const data = [
     "Choix_2": "",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "26,21"
+    "Score": "26.21"
   },
   {
     "N_Dossier": " 7238/2018",
@@ -12647,7 +12647,7 @@ const data = [
     "Choix_2": "MRSPCM",
     "Choix_3": "MPEAPCI",
     "Choix_4": "",
-    "Score": "33,03"
+    "Score": "33.03"
   },
   {
     "N_Dossier": " 7242/2018",
@@ -12658,7 +12658,7 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "30,67"
+    "Score": "30.67"
   },
   {
     "N_Dossier": " 7243/2018",
@@ -12669,6 +12669,6 @@ const data = [
     "Choix_2": "MRMSRA",
     "Choix_3": "",
     "Choix_4": "",
-    "Score": "39,53"
+    "Score": "39.53"
   }
 ]
